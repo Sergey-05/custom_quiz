@@ -1,4 +1,4 @@
-const questions = [
+[
   {
     "question": "Что такое информационная система?",
     "answers": [
