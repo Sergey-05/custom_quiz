@@ -66,7 +66,7 @@
     "question": "I receive updates about products through a news ___________.",
     "answers": [
       {
-        "text": "afeed",
+        "text": "feed",
         "correct": true
       },
       {
@@ -364,7 +364,7 @@
         "correct": false
       },
       {
-        "text": "bas if",
+        "text": "as if",
         "correct": true
       },
       {
@@ -448,7 +448,7 @@
         "correct": false
       },
       {
-        "text": "bend-effector",
+        "text": "end-effector",
         "correct": true
       },
       {
@@ -641,7 +641,7 @@
         "correct": false
       },
       {
-        "text": "csubscription",
+        "text": "subscription",
         "correct": true
       },
       {
@@ -666,7 +666,7 @@
         "correct": false
       },
       {
-        "text": "dremote access",
+        "text": "remote access",
         "correct": true
       }
     ]
