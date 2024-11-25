@@ -1,0 +1,1250 @@
+[
+  {
+    "question": "The ________ site helps you meet other professionals.",
+    "answers": [
+      {
+        "text": "feed",
+        "correct": false
+      },
+      {
+        "text": "MMORPG",
+        "correct": false
+      },
+      {
+        "text": "social networking",
+        "correct": true
+      },
+      {
+        "text": "gaming",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Sarah enjoys ________ and spends all her money on games.",
+    "answers": [
+      {
+        "text": "feed",
+        "correct": false
+      },
+      {
+        "text": "MMORPG",
+        "correct": false
+      },
+      {
+        "text": "social networking",
+        "correct": false
+      },
+      {
+        "text": "gaming",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Shadow of Doubt is an________ with many players.",
+    "answers": [
+      {
+        "text": "feed",
+        "correct": false
+      },
+      {
+        "text": "MMORPG",
+        "correct": true
+      },
+      {
+        "text": "social networking",
+        "correct": false
+      },
+      {
+        "text": "gaming",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I receive updates about products through a news ___________.",
+    "answers": [
+      {
+        "text": "afeed",
+        "correct": true
+      },
+      {
+        "text": "MMORPG",
+        "correct": false
+      },
+      {
+        "text": "social networking",
+        "correct": false
+      },
+      {
+        "text": "gaming",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_________ he will never agree to this plan is absolutely clear.",
+    "answers": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "whoever",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_________ is elected Prime Minister, lives at , Downing Street.",
+    "answers": [
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "c). who =d). whoever _________ her mother was, was the question.",
+    "answers": [
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "who",
+        "correct": true
+      },
+      {
+        "text": "whoever",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "_________ was done could not be underdone.",
+    "answers": [
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": true
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "whoever",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The decision is ________ we have been hoping for.",
+    "answers": [
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": true
+      },
+      {
+        "text": "whether",
+        "correct": false
+      },
+      {
+        "text": "whatever",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "But his chief trouble was _________ he didn’t know any editor or writer.",
+    "answers": [
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "whether",
+        "correct": false
+      },
+      {
+        "text": "whatever",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Time will show _______ I’m right or wrong.",
+    "answers": [
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "whether",
+        "correct": true
+      },
+      {
+        "text": "whatever",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I’m always ready to listen to ________ you may say.",
+    "answers": [
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "what",
+        "correct": false
+      },
+      {
+        "text": "whether",
+        "correct": false
+      },
+      {
+        "text": "whatever",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "The man _______ wants to buy my house is your friend.",
+    "answers": [
+      {
+        "text": "who",
+        "correct": true
+      },
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "where",
+        "correct": false
+      },
+      {
+        "text": "why",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The letter ________ arrived this morning was wrongly addressed.",
+    "answers": [
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "that",
+        "correct": true
+      },
+      {
+        "text": "where",
+        "correct": false
+      },
+      {
+        "text": "why",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "We visited the town ______ I was born.",
+    "answers": [
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "where",
+        "correct": true
+      },
+      {
+        "text": "why",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "There must be a reason ________ you said that.",
+    "answers": [
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "that",
+        "correct": false
+      },
+      {
+        "text": "where",
+        "correct": false
+      },
+      {
+        "text": "why",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "I have drawn a diagram _______ my explanation will be clear.",
+    "answers": [
+      {
+        "text": "so that",
+        "correct": true
+      },
+      {
+        "text": "as if",
+        "correct": false
+      },
+      {
+        "text": "in the way",
+        "correct": false
+      },
+      {
+        "text": "as",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "She acts _______ she owns the place.",
+    "answers": [
+      {
+        "text": "so that",
+        "correct": false
+      },
+      {
+        "text": "bas if",
+        "correct": true
+      },
+      {
+        "text": "in the way",
+        "correct": false
+      },
+      {
+        "text": "as",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "______ I had no money with me, I didn’t pay him.",
+    "answers": [
+      {
+        "text": "so that",
+        "correct": false
+      },
+      {
+        "text": "as if",
+        "correct": false
+      },
+      {
+        "text": "in the way",
+        "correct": false
+      },
+      {
+        "text": "as",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "They did it _______ I had never seen before.",
+    "answers": [
+      {
+        "text": "so that",
+        "correct": false
+      },
+      {
+        "text": "as if",
+        "correct": false
+      },
+      {
+        "text": "in the way",
+        "correct": true
+      },
+      {
+        "text": "as",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The scientific study of robots and their structure and movement.",
+    "answers": [
+      {
+        "text": "robotics",
+        "correct": true
+      },
+      {
+        "text": "end-effector",
+        "correct": false
+      },
+      {
+        "text": "manipulator",
+        "correct": false
+      },
+      {
+        "text": "actuator",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The hand or tool at the end of a robot’s manipulator.",
+    "answers": [
+      {
+        "text": "robotics",
+        "correct": false
+      },
+      {
+        "text": "bend-effector",
+        "correct": true
+      },
+      {
+        "text": "manipulator",
+        "correct": false
+      },
+      {
+        "text": "actuator",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The arm of a robot.",
+    "answers": [
+      {
+        "text": "robotics",
+        "correct": false
+      },
+      {
+        "text": "end-effector",
+        "correct": false
+      },
+      {
+        "text": "manipulator",
+        "correct": true
+      },
+      {
+        "text": "actuator",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A piece of equipment that makes a robot move.",
+    "answers": [
+      {
+        "text": "robotics",
+        "correct": false
+      },
+      {
+        "text": "end-effector",
+        "correct": false
+      },
+      {
+        "text": "manipulator",
+        "correct": false
+      },
+      {
+        "text": "actuator",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Books or magazines produced by a publishing company.",
+    "answers": [
+      {
+        "text": "PDF reader",
+        "correct": false
+      },
+      {
+        "text": "offline",
+        "correct": false
+      },
+      {
+        "text": "system requirements",
+        "correct": false
+      },
+      {
+        "text": "publications",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A program that opens text documents.",
+    "answers": [
+      {
+        "text": "PDF reader",
+        "correct": true
+      },
+      {
+        "text": "offline",
+        "correct": false
+      },
+      {
+        "text": "system requirements",
+        "correct": false
+      },
+      {
+        "text": "publications",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Being available for use even when not connected to the Internet.",
+    "answers": [
+      {
+        "text": "PDF reader",
+        "correct": false
+      },
+      {
+        "text": "offline",
+        "correct": true
+      },
+      {
+        "text": "system requirements",
+        "correct": false
+      },
+      {
+        "text": "publications",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The software or hardware that is needed to run a program.",
+    "answers": [
+      {
+        "text": "PDF reader",
+        "correct": false
+      },
+      {
+        "text": "offline",
+        "correct": false
+      },
+      {
+        "text": "system requirements",
+        "correct": true
+      },
+      {
+        "text": "publications",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A library server program that allows remote users to access the library’s electronic materials.",
+    "answers": [
+      {
+        "text": "EZ proxy",
+        "correct": true
+      },
+      {
+        "text": "VPN",
+        "correct": false
+      },
+      {
+        "text": "subscription",
+        "correct": false
+      },
+      {
+        "text": "remote access",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A way to encrypt a connection using when you use remote access.",
+    "answers": [
+      {
+        "text": "EZ proxy",
+        "correct": false
+      },
+      {
+        "text": "VPN",
+        "correct": true
+      },
+      {
+        "text": "subscription",
+        "correct": false
+      },
+      {
+        "text": "remote access",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The agreement to use something, often requiring a fee.",
+    "answers": [
+      {
+        "text": "EZ proxy",
+        "correct": false
+      },
+      {
+        "text": "VPN",
+        "correct": false
+      },
+      {
+        "text": "csubscription",
+        "correct": true
+      },
+      {
+        "text": "remote access",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The ability to use online library resources from outside the library.",
+    "answers": [
+      {
+        "text": "EZ proxy",
+        "correct": false
+      },
+      {
+        "text": "VPN",
+        "correct": false
+      },
+      {
+        "text": "subscription",
+        "correct": false
+      },
+      {
+        "text": "dremote access",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "The process of classifying objects by examining their visual appearance.",
+    "answers": [
+      {
+        "text": "pattern recognition",
+        "correct": true
+      },
+      {
+        "text": "computer vision",
+        "correct": false
+      },
+      {
+        "text": "algorithm",
+        "correct": false
+      },
+      {
+        "text": "consciousness",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The field and technology of making computers that have the ability to see.",
+    "answers": [
+      {
+        "text": "pattern recognition",
+        "correct": false
+      },
+      {
+        "text": "computer vision",
+        "correct": true
+      },
+      {
+        "text": "algorithm",
+        "correct": false
+      },
+      {
+        "text": "consciousness",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The state of being aware of oneself and one’s actions.",
+    "answers": [
+      {
+        "text": "pattern recognition",
+        "correct": false
+      },
+      {
+        "text": "computer vision",
+        "correct": false
+      },
+      {
+        "text": "algorithm",
+        "correct": false
+      },
+      {
+        "text": "consciousness",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A rule or set of rules that provides steps to take or questions to ask in order to solve a problem.",
+    "answers": [
+      {
+        "text": "pattern recognition",
+        "correct": false
+      },
+      {
+        "text": "computer vision",
+        "correct": false
+      },
+      {
+        "text": "algorithm",
+        "correct": true
+      },
+      {
+        "text": "consciousness",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If it _________ like rain, we _________at home.",
+    "answers": [
+      {
+        "text": "look / will stay",
+        "correct": false
+      },
+      {
+        "text": "looks / will stay",
+        "correct": true
+      },
+      {
+        "text": "will look / will stay",
+        "correct": false
+      },
+      {
+        "text": "will look / stay",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If I ________ you, I __________ there myself.",
+    "answers": [
+      {
+        "text": "was / will go",
+        "correct": false
+      },
+      {
+        "text": "were / will go",
+        "correct": false
+      },
+      {
+        "text": "were / would go",
+        "correct": true
+      },
+      {
+        "text": "were / went",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If it ________, I _________.",
+    "answers": [
+      {
+        "text": "were not raining / could go out",
+        "correct": true
+      },
+      {
+        "text": "was not raining / can go out",
+        "correct": false
+      },
+      {
+        "text": "were not raining / can go out",
+        "correct": false
+      },
+      {
+        "text": "is not raining / could go out",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If he _________ on Friday, he ________ to go with us.",
+    "answers": [
+      {
+        "text": "is working / isn’t able",
+        "correct": false
+      },
+      {
+        "text": "will be working / won’t be able",
+        "correct": false
+      },
+      {
+        "text": "will be working / isn’t able",
+        "correct": false
+      },
+      {
+        "text": "is working / won’t be able",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "In case I ________ her at home, I ________ her a note.",
+    "answers": [
+      {
+        "text": "won’t find / will leave",
+        "correct": false
+      },
+      {
+        "text": "don’t find / will leave",
+        "correct": true
+      },
+      {
+        "text": "don’t find / leave",
+        "correct": false
+      },
+      {
+        "text": "won’t find / leave",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If you knew him better, you __________ so.",
+    "answers": [
+      {
+        "text": "won’t think",
+        "correct": false
+      },
+      {
+        "text": "don’t think",
+        "correct": false
+      },
+      {
+        "text": "wouldn’t think",
+        "correct": true
+      },
+      {
+        "text": "aren’t think",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If we don’t hurry, we ______ late.",
+    "answers": [
+      {
+        "text": "are",
+        "correct": false
+      },
+      {
+        "text": "were",
+        "correct": false
+      },
+      {
+        "text": "would be",
+        "correct": false
+      },
+      {
+        "text": "will be",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "If his English were good, he __________ English books in the original.",
+    "answers": [
+      {
+        "text": "reads",
+        "correct": false
+      },
+      {
+        "text": "will read",
+        "correct": false
+      },
+      {
+        "text": "would read",
+        "correct": true
+      },
+      {
+        "text": "read",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If it hadn’t been so hot last summer, we __________ to the South.",
+    "answers": [
+      {
+        "text": "would have gone",
+        "correct": true
+      },
+      {
+        "text": "would go",
+        "correct": false
+      },
+      {
+        "text": "will go",
+        "correct": false
+      },
+      {
+        "text": "go",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If he had the money, he _______ a car.",
+    "answers": [
+      {
+        "text": "will buy",
+        "correct": false
+      },
+      {
+        "text": "would buy",
+        "correct": true
+      },
+      {
+        "text": "would have bought",
+        "correct": false
+      },
+      {
+        "text": "bought",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The view was wonderful. If I’d had a camera, I ____________some photographs.",
+    "answers": [
+      {
+        "text": "will take",
+        "correct": false
+      },
+      {
+        "text": "took cwould take",
+        "correct": false
+      },
+      {
+        "text": "would have taken",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "If I had seen you, I ____________ hello.",
+    "answers": [
+      {
+        "text": "would have said",
+        "correct": true
+      },
+      {
+        "text": "will say",
+        "correct": false
+      },
+      {
+        "text": "would say",
+        "correct": false
+      },
+      {
+        "text": "say",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Do you ever wish you ________?",
+    "answers": [
+      {
+        "text": "can fly",
+        "correct": true
+      },
+      {
+        "text": "could fly",
+        "correct": false
+      },
+      {
+        "text": "could have fly",
+        "correct": false
+      },
+      {
+        "text": "fly",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "It’s very crowded here. I wish there __________ so many people.",
+    "answers": [
+      {
+        "text": "wasn’t",
+        "correct": true
+      },
+      {
+        "text": "weren’t",
+        "correct": false
+      },
+      {
+        "text": "hadn’t been",
+        "correct": false
+      },
+      {
+        "text": "will be",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I feel sick. I wish I __________ so much cake. (I ate too much cake)",
+    "answers": [
+      {
+        "text": "hadn’t eaten",
+        "correct": true
+      },
+      {
+        "text": "didn’t eat",
+        "correct": false
+      },
+      {
+        "text": "won’t eat",
+        "correct": false
+      },
+      {
+        "text": "wouldn’t eat",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Do you wish you ________ science instead of languages. (you didn’t study science)",
+    "answers": [
+      {
+        "text": "studied",
+        "correct": true
+      },
+      {
+        "text": "will study",
+        "correct": false
+      },
+      {
+        "text": "would study",
+        "correct": false
+      },
+      {
+        "text": "had studied",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "It ________ cheaper if we _______ by bus.",
+    "answers": [
+      {
+        "text": "is / will go",
+        "correct": true
+      },
+      {
+        "text": "will be / go",
+        "correct": false
+      },
+      {
+        "text": "is / go",
+        "correct": false
+      },
+      {
+        "text": "will be / will go",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If you _________ the exam you __________ a certificate.",
+    "answers": [
+      {
+        "text": "pass / will get",
+        "correct": true
+      },
+      {
+        "text": "will pass / will get",
+        "correct": false
+      },
+      {
+        "text": "will pass / get",
+        "correct": false
+      },
+      {
+        "text": "pass / get",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Jane likes living in a city. She ________ happy if she lived in the country.",
+    "answers": [
+      {
+        "text": "isn’t",
+        "correct": false
+      },
+      {
+        "text": "won’t be",
+        "correct": false
+      },
+      {
+        "text": "wouldn’t be",
+        "correct": true
+      },
+      {
+        "text": "wouldn’t have been",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "What would you do if you _________ a lot of money?",
+    "answers": [
+      {
+        "text": "win",
+        "correct": false
+      },
+      {
+        "text": "won",
+        "correct": true
+      },
+      {
+        "text": "would win",
+        "correct": false
+      },
+      {
+        "text": "would have won",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Online banking offers _________ to monitor __________.",
+    "answers": [
+      {
+        "text": "PINs / identity theft",
+        "correct": false
+      },
+      {
+        "text": "account alerts / bill pay",
+        "correct": false
+      },
+      {
+        "text": "electronic statements / account activity",
+        "correct": true
+      },
+      {
+        "text": "site key / lockout",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Online banks have a(n_______ and a(n_______ to secure transactions.",
+    "answers": [
+      {
+        "text": "SSL connection / site key",
+        "correct": true
+      },
+      {
+        "text": "PIN, electronic statements",
+        "correct": false
+      },
+      {
+        "text": "account alerts / bill pay",
+        "correct": false
+      },
+      {
+        "text": "lockout / account activity",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "To protect members from fraud, online banks use ______ and ______.",
+    "answers": [
+      {
+        "text": "site keys / account activity",
+        "correct": false
+      },
+      {
+        "text": "lockouts / account alerts",
+        "correct": true
+      },
+      {
+        "text": "PINs / electronic funds transfer",
+        "correct": false
+      },
+      {
+        "text": "bill pay / identity theft",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Online banks protect you from ________ and __________.",
+    "answers": [
+      {
+        "text": "PINs / electronic funds transfer",
+        "correct": false
+      },
+      {
+        "text": "SSL connection / site key",
+        "correct": false
+      },
+      {
+        "text": "lockout / bill pay",
+        "correct": false
+      },
+      {
+        "text": "bank fraud / identity theft",
+        "correct": true
+      }
+    ]
+  }
+]
