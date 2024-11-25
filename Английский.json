@@ -114,11 +114,19 @@
       {
         "text": "what",
         "correct": false
+      },
+      {
+        "text": "who",
+        "correct": false
+      },
+      {
+        "text": "whoever",
+        "correct": true
       }
     ]
   },
   {
-    "question": "c). who =d). whoever _________ her mother was, was the question.",
+    "question": "_________ her mother was, was the question.",
     "answers": [
       {
         "text": "that",
