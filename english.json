@@ -172,11 +172,11 @@
     "answers": [
       {
         "text": "latitude",
-        "correct": true
+        "correct": false
       },
       {
         "text": "longitude",
-        "correct": false
+        "correct": true
       },
       {
         "text": "navigation",
@@ -386,11 +386,11 @@
       },
       {
         "text": "what",
-        "correct": true
+        "correct": false
       },
       {
         "text": "who",
-        "correct": false
+        "correct": true
       },
       {
         "text": "whoever",
@@ -403,11 +403,11 @@
     "answers": [
       {
         "text": "that",
-        "correct": true
+        "correct": false
       },
       {
         "text": "what",
-        "correct": false
+        "correct": true
       },
       {
         "text": "who",
@@ -445,7 +445,7 @@
     "answers": [
       {
         "text": "that",
-        "correct": true
+        "correct": false
       },
       {
         "text": "what",
@@ -457,7 +457,7 @@
       },
       {
         "text": "whatever",
-        "correct": false
+        "correct": true
       }
     ]
   },
@@ -659,536 +659,11 @@
       },
       {
         "text": "as if",
-        "correct": false
-      },
-      {
-        "text": "in the way",
-        "correct": true
-      },
-      {
-        "text": "as",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "The scientific study of robots and their structure and movement.",
-    "answers": [
-      {
-        "text": "robotics",
-        "correct": true
-      },
-      {
-        "text": "end-effector",
-        "correct": false
-      },
-      {
-        "text": "manipulator",
-        "correct": false
-      },
-      {
-        "text": "actuator",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "The hand or tool at the end of a robot’s manipulator.",
-    "answers": [
-      {
-        "text": "robotics",
-        "correct": false
-      },
-      {
-        "text": "end-effector",
-        "correct": true
-      },
-      {
-        "text": "manipulator",
-        "correct": false
-      },
-      {
-        "text": "actuator",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "The arm of a robot.",
-    "answers": [
-      {
-        "text": "robotics",
-        "correct": false
-      },
-      {
-        "text": "end-effector",
-        "correct": false
-      },
-      {
-        "text": "manipulator",
-        "correct": true
-      },
-      {
-        "text": "actuator",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "A piece of equipment that makes a robot move.",
-    "answers": [
-      {
-        "text": "robotics",
-        "correct": false
-      },
-      {
-        "text": "end-effector",
-        "correct": false
-      },
-      {
-        "text": "manipulator",
-        "correct": false
-      },
-      {
-        "text": "actuator",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "question": "The act of creating a route to a destination.",
-    "answers": [
-      {
-        "text": "latitude",
-        "correct": false
-      },
-      {
-        "text": "longitude",
-        "correct": false
-      },
-      {
-        "text": "navigation",
-        "correct": true
-      },
-      {
-        "text": "waypoints",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "The ________ site helps you meet other professionals.",
-    "answers": [
-      {
-        "text": "feed",
-        "correct": false
-      },
-      {
-        "text": "MMORPG",
-        "correct": false
-      },
-      {
-        "text": "social networking",
-        "correct": true
-      },
-      {
-        "text": "gaming",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "Sarah enjoys ________ and spends all her money on games.",
-    "answers": [
-      {
-        "text": "feed",
-        "correct": false
-      },
-      {
-        "text": "MMORPG",
-        "correct": false
-      },
-      {
-        "text": "social networking",
-        "correct": false
-      },
-      {
-        "text": "gaming",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "question": "Shadow of Doubt is a(n) ________ with many players.",
-    "answers": [
-      {
-        "text": "feed",
-        "correct": false
-      },
-      {
-        "text": "MMORPG",
-        "correct": true
-      },
-      {
-        "text": "social networking",
-        "correct": false
-      },
-      {
-        "text": "gaming",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "I receive updates about products through a news ___________.",
-    "answers": [
-      {
-        "text": "feed",
-        "correct": true
-      },
-      {
-        "text": "MMORPG",
-        "correct": false
-      },
-      {
-        "text": "social networking",
-        "correct": false
-      },
-      {
-        "text": "gaming",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "_________ he will never agree to this plan is absolutely clear.",
-    "answers": [
-      {
-        "text": "that",
-        "correct": true
-      },
-      {
-        "text": "what",
-        "correct": false
-      },
-      {
-        "text": "who",
-        "correct": false
-      },
-      {
-        "text": "whoever",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "_________ is elected Prime Minister, lives at 10, Downing Street.",
-    "answers": [
-      {
-        "text": "that",
-        "correct": false
-      },
-      {
-        "text": "what",
-        "correct": false
-      },
-      {
-        "text": "who",
-        "correct": false
-      },
-      {
-        "text": "whoever",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "question": "_________ her mother was, was the question.",
-    "answers": [
-      {
-        "text": "that",
-        "correct": false
-      },
-      {
-        "text": "what",
-        "correct": true
-      },
-      {
-        "text": "who",
-        "correct": false
-      },
-      {
-        "text": "whoever",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "_________ was done could not be underdone.",
-    "answers": [
-      {
-        "text": "that",
-        "correct": true
-      },
-      {
-        "text": "what",
-        "correct": false
-      },
-      {
-        "text": "who",
-        "correct": false
-      },
-      {
-        "text": "whoever",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "The decision is ________ we have been hoping for.",
-    "answers": [
-      {
-        "text": "that",
-        "correct": false
-      },
-      {
-        "text": "what",
-        "correct": true
-      },
-      {
-        "text": "whether",
-        "correct": false
-      },
-      {
-        "text": "whatever",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "But his chief trouble was _________ he didn’t know any editor or writer.",
-    "answers": [
-      {
-        "text": "that",
-        "correct": true
-      },
-      {
-        "text": "what",
-        "correct": false
-      },
-      {
-        "text": "whether",
-        "correct": false
-      },
-      {
-        "text": "whatever",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "Time will show _______ I’m right or wrong.",
-    "answers": [
-      {
-        "text": "that",
-        "correct": false
-      },
-      {
-        "text": "what",
-        "correct": false
-      },
-      {
-        "text": "whether",
-        "correct": true
-      },
-      {
-        "text": "whatever",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "I’m always ready to listen to ________ you may say.",
-    "answers": [
-      {
-        "text": "that",
-        "correct": false
-      },
-      {
-        "text": "what",
-        "correct": false
-      },
-      {
-        "text": "whether",
-        "correct": false
-      },
-      {
-        "text": "whatever",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "question": "The man _______ wants to buy my house is your friend.",
-    "answers": [
-      {
-        "text": "who",
-        "correct": true
-      },
-      {
-        "text": "that",
-        "correct": false
-      },
-      {
-        "text": "where",
-        "correct": false
-      },
-      {
-        "text": "why",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "The letter ________ arrived this morning was wrongly addressed.",
-    "answers": [
-      {
-        "text": "who",
-        "correct": false
-      },
-      {
-        "text": "that",
-        "correct": true
-      },
-      {
-        "text": "where",
-        "correct": false
-      },
-      {
-        "text": "why",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "We visited the town ______ I was born.",
-    "answers": [
-      {
-        "text": "who",
-        "correct": false
-      },
-      {
-        "text": "that",
-        "correct": false
-      },
-      {
-        "text": "where",
-        "correct": true
-      },
-      {
-        "text": "why",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "There must be a reason ________ you said that.",
-    "answers": [
-      {
-        "text": "who",
-        "correct": false
-      },
-      {
-        "text": "that",
-        "correct": false
-      },
-      {
-        "text": "where",
-        "correct": false
-      },
-      {
-        "text": "why",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "question": "I have drawn a diagram _______ my explanation will be clear.",
-    "answers": [
-      {
-        "text": "so that",
-        "correct": true
-      },
-      {
-        "text": "as if",
-        "correct": false
-      },
-      {
-        "text": "in the way",
-        "correct": false
-      },
-      {
-        "text": "as",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "She acts _______ she owns the place.",
-    "answers": [
-      {
-        "text": "so that",
-        "correct": false
-      },
-      {
-        "text": "as if",
         "correct": true
       },
       {
         "text": "in the way",
         "correct": false
-      },
-      {
-        "text": "as",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "______ I had no money with me, I didn’t pay him.",
-    "answers": [
-      {
-        "text": "so that",
-        "correct": false
-      },
-      {
-        "text": "as if",
-        "correct": false
-      },
-      {
-        "text": "in the way",
-        "correct": false
-      },
-      {
-        "text": "as",
-        "correct": true
-      }
-    ]
-  },
-  {
-    "question": "They did it _______ I had never seen before.",
-    "answers": [
-      {
-        "text": "so that",
-        "correct": false
-      },
-      {
-        "text": "as if",
-        "correct": false
-      },
-      {
-        "text": "in the way",
-        "correct": true
       },
       {
         "text": "as",
@@ -1359,7 +834,7 @@
         "correct": true
       },
       {
-        "text": "Publications",
+        "text": "publications",
         "correct": false
       }
     ]
@@ -1376,7 +851,7 @@
         "correct": false
       },
       {
-        "text": "Subscription",
+        "text": "subscription",
         "correct": false
       },
       {
@@ -1397,7 +872,7 @@
         "correct": true
       },
       {
-        "text": "Subscription",
+        "text": "subscription",
         "correct": false
       },
       {
@@ -1418,7 +893,7 @@
         "correct": false
       },
       {
-        "text": "Subscription",
+        "text": "subscription",
         "correct": true
       },
       {
@@ -1439,7 +914,7 @@
         "correct": false
       },
       {
-        "text": "Subscription",
+        "text": "subscription",
         "correct": false
       },
       {
@@ -1460,11 +935,11 @@
         "correct": false
       },
       {
-        "text": "Algorithm",
+        "text": "algorithm",
         "correct": false
       },
       {
-        "text": "Consciousness",
+        "text": "consciousness",
         "correct": false
       }
     ]
@@ -1481,11 +956,11 @@
         "correct": true
       },
       {
-        "text": "Algorithm",
+        "text": "algorithm",
         "correct": false
       },
       {
-        "text": "Consciousness",
+        "text": "consciousness",
         "correct": false
       }
     ]
@@ -1502,11 +977,11 @@
         "correct": false
       },
       {
-        "text": "Algorithm",
+        "text": "algorithm",
         "correct": false
       },
       {
-        "text": "Consciousness",
+        "text": "consciousness",
         "correct": true
       }
     ]
@@ -1523,17 +998,17 @@
         "correct": false
       },
       {
-        "text": "Algorithm",
+        "text": "algorithm",
         "correct": true
       },
       {
-        "text": "Consciousness",
+        "text": "consciousness",
         "correct": false
       }
     ]
   },
   {
-    "question": "If it _________ like rain, we _________ at home.",
+    "question": "If it _________ like rain, we _________at home.",
     "answers": [
       {
         "text": "look / will stay",
@@ -1621,11 +1096,11 @@
     "answers": [
       {
         "text": "won’t find / will leave",
-        "correct": false
+        "correct": true
       },
       {
         "text": "don’t find / will leave",
-        "correct": true
+        "correct": false
       },
       {
         "text": "don’t find / leave",
@@ -1662,11 +1137,11 @@
     "question": "If we don’t hurry, we ______ late.",
     "answers": [
       {
-        "text": "Are",
+        "text": "are",
         "correct": false
       },
       {
-        "text": "Were",
+        "text": "were",
         "correct": false
       },
       {
@@ -1683,7 +1158,7 @@
     "question": "If his English were good, he __________ English books in the original.",
     "answers": [
       {
-        "text": "Reads",
+        "text": "reads",
         "correct": false
       },
       {
@@ -1696,6 +1171,1182 @@
       },
       {
         "text": "Read",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "To switch from one file to another.",
+    "answers": [
+      {
+        "text": "automation",
+        "correct": false
+      },
+      {
+        "text": "telecommute",
+        "correct": false
+      },
+      {
+        "text": "toggle",
+        "correct": true
+      },
+      {
+        "text": "fault tolerant",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "To work away from an office using technology.",
+    "answers": [
+      {
+        "text": "automation",
+        "correct": false
+      },
+      {
+        "text": "telecommute",
+        "correct": true
+      },
+      {
+        "text": "toggle",
+        "correct": false
+      },
+      {
+        "text": "fault tolerant",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The use of machines to perform tasks without human assistance.",
+    "answers": [
+      {
+        "text": "automation",
+        "correct": true
+      },
+      {
+        "text": "telecommute",
+        "correct": false
+      },
+      {
+        "text": "toggle",
+        "correct": false
+      },
+      {
+        "text": "fault tolerant",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The ability to continue functioning after an error.",
+    "answers": [
+      {
+        "text": "automation",
+        "correct": false
+      },
+      {
+        "text": "telecommute",
+        "correct": false
+      },
+      {
+        "text": "toggle",
+        "correct": false
+      },
+      {
+        "text": "fault tolerant",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Alice and Mike _________ to the seaside this summer.",
+    "answers": [
+      {
+        "text": "went",
+        "correct": false
+      },
+      {
+        "text": "go",
+        "correct": false
+      },
+      {
+        "text": "have gone",
+        "correct": true
+      },
+      {
+        "text": "had gone",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The golf course was the most wonderful they ________ on.",
+    "answers": [
+      {
+        "text": "had ever played",
+        "correct": true
+      },
+      {
+        "text": "have ever played",
+        "correct": false
+      },
+      {
+        "text": "had played ever",
+        "correct": false
+      },
+      {
+        "text": "ever had played",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I’m sure they _________ back only by the end of August.",
+    "answers": [
+      {
+        "text": "come",
+        "correct": false
+      },
+      {
+        "text": "will come",
+        "correct": false
+      },
+      {
+        "text": "will have come",
+        "correct": true
+      },
+      {
+        "text": "came",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I think it is the best vacation they __________.",
+    "answers": [
+      {
+        "text": "have taken ever",
+        "correct": false
+      },
+      {
+        "text": "ever have taken",
+        "correct": false
+      },
+      {
+        "text": "ever taken",
+        "correct": false
+      },
+      {
+        "text": "have ever taken",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "The process of stealing another person’s personal information and using it for personal gain.",
+    "answers": [
+      {
+        "text": "pretexting",
+        "correct": false
+      },
+      {
+        "text": "phishing",
+        "correct": false
+      },
+      {
+        "text": "pharming",
+        "correct": false
+      },
+      {
+        "text": "identity theft",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "The process wherein thieves trick people into giving away their personal information over the phone.",
+    "answers": [
+      {
+        "text": "pretexting",
+        "correct": true
+      },
+      {
+        "text": "phishing",
+        "correct": false
+      },
+      {
+        "text": "pharming",
+        "correct": false
+      },
+      {
+        "text": "identity theft",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The process wherein thieves trick people into giving away their personal information through email.",
+    "answers": [
+      {
+        "text": "pretexting",
+        "correct": false
+      },
+      {
+        "text": "phishing",
+        "correct": true
+      },
+      {
+        "text": "pharming",
+        "correct": false
+      },
+      {
+        "text": "identity theft",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The process wherein thieves reroute people to a fake website that appears to be    legitimate in order to trick them into giving away their personal information.",
+    "answers": [
+      {
+        "text": "pretexting",
+        "correct": false
+      },
+      {
+        "text": "phishing",
+        "correct": false
+      },
+      {
+        "text": "pharming",
+        "correct": true
+      },
+      {
+        "text": "identity theft",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A keylogger ________ your passwords.",
+    "answers": [
+      {
+        "text": "will record",
+        "correct": true
+      },
+      {
+        "text": "record",
+        "correct": false
+      },
+      {
+        "text": "is recorded",
+        "correct": false
+      },
+      {
+        "text": "is record",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Without antivirus software, computers ________ to an attack.",
+    "answers": [
+      {
+        "text": "opens",
+        "correct": false
+      },
+      {
+        "text": "opened",
+        "correct": false
+      },
+      {
+        "text": "are open",
+        "correct": true
+      },
+      {
+        "text": "is open",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The man was arrested and went to jail for committing ________.",
+    "answers": [
+      {
+        "text": "cyber",
+        "correct": false
+      },
+      {
+        "text": "worm",
+        "correct": false
+      },
+      {
+        "text": "scanner",
+        "correct": false
+      },
+      {
+        "text": "fraud",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "296) Avoid _______ crime by being safe on your computer.",
+    "answers": [
+      {
+        "text": "cyber",
+        "correct": true
+      },
+      {
+        "text": "worm",
+        "correct": false
+      },
+      {
+        "text": "scanner",
+        "correct": false
+      },
+      {
+        "text": "fraud",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I heard they ________ for our department for three months.",
+    "answers": [
+      {
+        "text": "worked",
+        "correct": false
+      },
+      {
+        "text": "have worked",
+        "correct": false
+      },
+      {
+        "text": "had been working",
+        "correct": true
+      },
+      {
+        "text": "are working",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "It was obvious that he ________ lonely here, with no relatives or friends.",
+    "answers": [
+      {
+        "text": "is feeling",
+        "correct": false
+      },
+      {
+        "text": "was feeling",
+        "correct": true
+      },
+      {
+        "text": "feels",
+        "correct": false
+      },
+      {
+        "text": "had felt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A week ago Joe thought that he never _____ in love again. But now it happened.",
+    "answers": [
+      {
+        "text": "fell",
+        "correct": false
+      },
+      {
+        "text": "would fall",
+        "correct": true
+      },
+      {
+        "text": "falls",
+        "correct": false
+      },
+      {
+        "text": "will fall",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "I felt he ________ what he had told.",
+    "answers": [
+      {
+        "text": "regrets",
+        "correct": false
+      },
+      {
+        "text": "will regret",
+        "correct": false
+      },
+      {
+        "text": "regretted",
+        "correct": true
+      },
+      {
+        "text": "had been regretted",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A(n) _______ will record your password.",
+    "answers": [
+      {
+        "text": "attack",
+        "correct": false
+      },
+      {
+        "text": "firewall",
+        "correct": false
+      },
+      {
+        "text": "patch",
+        "correct": false
+      },
+      {
+        "text": "keylogger",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Without antivirus software, computers are open to a(n) _________.",
+    "answers": [
+      {
+        "text": "attack",
+        "correct": true
+      },
+      {
+        "text": "firewall",
+        "correct": false
+      },
+      {
+        "text": "patch",
+        "correct": false
+      },
+      {
+        "text": "keylogger",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Put up a(n) __________ to keep hackers out of your computer.",
+    "answers": [
+      {
+        "text": "attack",
+        "correct": false
+      },
+      {
+        "text": "firewall",
+        "correct": true
+      },
+      {
+        "text": "patch",
+        "correct": false
+      },
+      {
+        "text": "keylogger",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Download the _________ to make the program work correctly.",
+    "answers": [
+      {
+        "text": "attack",
+        "correct": false
+      },
+      {
+        "text": "firewall",
+        "correct": false
+      },
+      {
+        "text": "patch",
+        "correct": true
+      },
+      {
+        "text": "keylogger",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "When antivirus software incorrectly indicates that an infected file is clean.",
+    "answers": [
+      {
+        "text": "false positive",
+        "correct": false
+      },
+      {
+        "text": "false negative",
+        "correct": true
+      },
+      {
+        "text": "rootkit",
+        "correct": false
+      },
+      {
+        "text": "cyber criminal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "When antivirus software incorrectly indicates that a clean file has been infected",
+    "answers": [
+      {
+        "text": "false positive",
+        "correct": true
+      },
+      {
+        "text": "false negative",
+        "correct": false
+      },
+      {
+        "text": "rootkit",
+        "correct": false
+      },
+      {
+        "text": "cyber criminal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A type of computer virus that is created to gain total control over a computer system by",
+    "answers": [
+      {
+        "text": "false positive",
+        "correct": false
+      },
+      {
+        "text": "false negative",
+        "correct": false
+      },
+      {
+        "text": "rootkit",
+        "correct": true
+      },
+      {
+        "text": "cyber criminal",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A person who uses computers and the Internet to commit crimes such as identity theft",
+    "answers": [
+      {
+        "text": "false positive",
+        "correct": false
+      },
+      {
+        "text": "false negative",
+        "correct": false
+      },
+      {
+        "text": "rootkit",
+        "correct": false
+      },
+      {
+        "text": "cyber criminal",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "If she _________ finished work by 4 o’clock, she will go home.",
+    "answers": [
+      {
+        "text": "will",
+        "correct": false
+      },
+      {
+        "text": "is",
+        "correct": false
+      },
+      {
+        "text": "has",
+        "correct": true
+      },
+      {
+        "text": "-----",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If they understood the problem, they _______ find a solution, now.",
+    "answers": [
+      {
+        "text": "will",
+        "correct": false
+      },
+      {
+        "text": "would",
+        "correct": true
+      },
+      {
+        "text": "would have",
+        "correct": false
+      },
+      {
+        "text": "can",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If she _______ known the facts, she could have told us what to do.",
+    "answers": [
+      {
+        "text": "have",
+        "correct": false
+      },
+      {
+        "text": "will have",
+        "correct": false
+      },
+      {
+        "text": "would have",
+        "correct": false
+      },
+      {
+        "text": "had",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "You’d better come by noon tomorrow. If you go by train, you _____ get there earlier.",
+    "answers": [
+      {
+        "text": "will",
+        "correct": true
+      },
+      {
+        "text": "would",
+        "correct": false
+      },
+      {
+        "text": "-----",
+        "correct": false
+      },
+      {
+        "text": "would have",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Thanks to _______ pricing, we’re only billed when we use it.",
+    "answers": [
+      {
+        "text": "pay as you go",
+        "correct": true
+      },
+      {
+        "text": "elasticity",
+        "correct": false
+      },
+      {
+        "text": "SaaS",
+        "correct": false
+      },
+      {
+        "text": "deployment",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Cloud computing increases the __________ of our computer systems.",
+    "answers": [
+      {
+        "text": "pay as you go",
+        "correct": false
+      },
+      {
+        "text": "elasticity",
+        "correct": true
+      },
+      {
+        "text": "SaaS",
+        "correct": false
+      },
+      {
+        "text": "deployment",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Use __________ to avoid installing new programs on each computer.",
+    "answers": [
+      {
+        "text": "pay as you go",
+        "correct": false
+      },
+      {
+        "text": "elasticity",
+        "correct": false
+      },
+      {
+        "text": "SaaS",
+        "correct": true
+      },
+      {
+        "text": "deployment",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Cloud computing makes ________ of new software much easier.",
+    "answers": [
+      {
+        "text": "pay as you go",
+        "correct": false
+      },
+      {
+        "text": "elasticity",
+        "correct": false
+      },
+      {
+        "text": "SaaS",
+        "correct": false
+      },
+      {
+        "text": "deployment",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "A tiny device in a person’s body that releases specific amounts of medicine.",
+    "answers": [
+      {
+        "text": "implanted microchip",
+        "correct": true
+      },
+      {
+        "text": "micro robotic tweezers",
+        "correct": false
+      },
+      {
+        "text": "lab-on-a-chip",
+        "correct": false
+      },
+      {
+        "text": "bar coding",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A very tiny device that allows a doctor to operate in extremely small or delicate areas.",
+    "answers": [
+      {
+        "text": "implanted microchip",
+        "correct": false
+      },
+      {
+        "text": "micro robotic tweezers",
+        "correct": true
+      },
+      {
+        "text": "lab-on-a-chip",
+        "correct": false
+      },
+      {
+        "text": "bar coding",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A tiny device that holds cells and fluid that a doctor can analyze easily.",
+    "answers": [
+      {
+        "text": "implanted microchip",
+        "correct": false
+      },
+      {
+        "text": "micro robotic tweezers",
+        "correct": false
+      },
+      {
+        "text": "lab-on-a-chip",
+        "correct": true
+      },
+      {
+        "text": "bar coding",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A system in which doctors scan medicines and match them to patients.",
+    "answers": [
+      {
+        "text": "implanted microchip",
+        "correct": false
+      },
+      {
+        "text": "micro robotic tweezers",
+        "correct": false
+      },
+      {
+        "text": "lab-on-a-chip",
+        "correct": false
+      },
+      {
+        "text": "bar coding",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Mrs. Dashkova is reported __________ a new novel now.",
+    "answers": [
+      {
+        "text": "to write",
+        "correct": false
+      },
+      {
+        "text": "to be writing",
+        "correct": true
+      },
+      {
+        "text": "to have written",
+        "correct": false
+      },
+      {
+        "text": "to be written",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "He is said __________ for his visa for two months, not less.",
+    "answers": [
+      {
+        "text": "to wait",
+        "correct": false
+      },
+      {
+        "text": "to be waiting",
+        "correct": false
+      },
+      {
+        "text": "to have waited",
+        "correct": false
+      },
+      {
+        "text": "to have been waiting",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "I don’t expect him _________for Germany for good.",
+    "answers": [
+      {
+        "text": "to leave",
+        "correct": true
+      },
+      {
+        "text": "to be leaving",
+        "correct": false
+      },
+      {
+        "text": "to be left",
+        "correct": false
+      },
+      {
+        "text": "to have been leaving",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "She didn’t seem _________ in gardening.",
+    "answers": [
+      {
+        "text": "to interest",
+        "correct": false
+      },
+      {
+        "text": "to be interested",
+        "correct": true
+      },
+      {
+        "text": "to be interesting",
+        "correct": false
+      },
+      {
+        "text": "to have been interested",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "To add a new component or program to a computer or system.",
+    "answers": [
+      {
+        "text": "install",
+        "correct": true
+      },
+      {
+        "text": "troubleshooting",
+        "correct": false
+      },
+      {
+        "text": "file archiving",
+        "correct": false
+      },
+      {
+        "text": "purge",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The process of identifying and fixing technical problems.",
+    "answers": [
+      {
+        "text": "install",
+        "correct": false
+      },
+      {
+        "text": "troubleshooting",
+        "correct": true
+      },
+      {
+        "text": "file archiving",
+        "correct": false
+      },
+      {
+        "text": "purge",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "The process of organizing computer files in an orderly way. This lets you retrieve them              easily.",
+    "answers": [
+      {
+        "text": "install",
+        "correct": false
+      },
+      {
+        "text": "troubleshooting",
+        "correct": false
+      },
+      {
+        "text": "file archiving",
+        "correct": true
+      },
+      {
+        "text": "purge",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "To delete files or data from a computer.",
+    "answers": [
+      {
+        "text": "install",
+        "correct": false
+      },
+      {
+        "text": "troubleshooting",
+        "correct": false
+      },
+      {
+        "text": "file archiving",
+        "correct": false
+      },
+      {
+        "text": "purge",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Someone who builds a website.",
+    "answers": [
+      {
+        "text": "web developer",
+        "correct": true
+      },
+      {
+        "text": "vendor",
+        "correct": false
+      },
+      {
+        "text": "system administrator",
+        "correct": false
+      },
+      {
+        "text": "programmer",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Someone who distributes programs and utilities.",
+    "answers": [
+      {
+        "text": "web developer",
+        "correct": false
+      },
+      {
+        "text": "vendor",
+        "correct": true
+      },
+      {
+        "text": "system administrator",
+        "correct": false
+      },
+      {
+        "text": "programmer",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Someone whose job is to manage and maintain a computer system.",
+    "answers": [
+      {
+        "text": "web developer",
+        "correct": false
+      },
+      {
+        "text": "vendor",
+        "correct": false
+      },
+      {
+        "text": "system administrator",
+        "correct": true
+      },
+      {
+        "text": "programmer",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Someone who writes computer programs.",
+    "answers": [
+      {
+        "text": "web developer",
+        "correct": false
+      },
+      {
+        "text": "vendor",
+        "correct": false
+      },
+      {
+        "text": "system administrator",
+        "correct": false
+      },
+      {
+        "text": "programmer",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "If she had passed the driving test, I ________ given her my car.",
+    "answers": [
+      {
+        "text": "had",
+        "correct": false
+      },
+      {
+        "text": "would",
+        "correct": false
+      },
+      {
+        "text": "would have",
+        "correct": true
+      },
+      {
+        "text": "will have",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If I _________ busy, I’ll visit you.",
+    "answers": [
+      {
+        "text": "isn’t",
+        "correct": false
+      },
+      {
+        "text": "will be",
+        "correct": false
+      },
+      {
+        "text": "won’t be",
+        "correct": false
+      },
+      {
+        "text": "am not",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "If I had left three weeks ago, I _____________ be home now.",
+    "answers": [
+      {
+        "text": "will",
+        "correct": false
+      },
+      {
+        "text": "would have",
+        "correct": false
+      },
+      {
+        "text": "would",
+        "correct": true
+      },
+      {
+        "text": "have",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "If I hadn’t worked hard when I was young I _________ own the firm now.",
+    "answers": [
+      {
+        "text": "------",
+        "correct": false
+      },
+      {
+        "text": "wouldn’t",
+        "correct": true
+      },
+      {
+        "text": "won’t",
+        "correct": false
+      },
+      {
+        "text": "had",
         "correct": false
       }
     ]
