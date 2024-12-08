@@ -445,7 +445,7 @@
     "answers": [
       {
         "text": "that",
-        "correct": false
+        "correct": true
       },
       {
         "text": "what",
@@ -457,7 +457,7 @@
       },
       {
         "text": "whatever",
-        "correct": true
+        "correct": false
       }
     ]
   },
@@ -659,11 +659,11 @@
       },
       {
         "text": "as if",
-        "correct": true
+        "correct": false
       },
       {
         "text": "in the way",
-        "correct": false
+        "correct": true
       },
       {
         "text": "as",
