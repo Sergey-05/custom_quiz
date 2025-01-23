@@ -193,7 +193,7 @@
     "answers": [
       {
         "text": "Плоскость",
-        "correct": true
+        "correct": false
       },
       {
         "text": "прямая",
@@ -201,7 +201,7 @@
       },
       {
         "text": "полуплоскость",
-        "correct": false
+        "correct": true
       }
     ]
   },
@@ -235,11 +235,11 @@
       },
       {
         "text": "(5; -1)",
-        "correct": false
+        "correct": true
       },
       {
         "text": "(5; 1)",
-        "correct": true
+        "correct": false
       }
     ]
   },
@@ -416,11 +416,11 @@
     "answers": [
       {
         "text": "Fmax = -18",
-        "correct": true
+        "correct": false
       },
       {
         "text": "Fmax = 18",
-        "correct": false
+        "correct": true
       },
       {
         "text": "Fmin = -18",
