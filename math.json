@@ -227,7 +227,7 @@
     "answers": [
       {
         "text": "(-5; 1)",
-        "correct": true
+        "correct": false
       },
       {
         "text": "(-5; -1)",
@@ -239,7 +239,7 @@
       },
       {
         "text": "(5; 1)",
-        "correct": false
+        "correct": true
       }
     ]
   },
