@@ -1,0 +1,1447 @@
+[
+  {
+    "question": "Порядок составления математической модели задачи математического программирования следующий:",
+    "answers": [
+      {
+        "text": "Выбор переменных; учет ограничений; построение функции цели",
+        "correct": true
+      },
+      {
+        "text": "Выбор переменных; построение функции цели; учет ограничений",
+        "correct": false
+      },
+      {
+        "text": "Построение функции цели; учет ограничений; выбор переменных",
+        "correct": false
+      },
+      {
+        "text": "Учет ограничений; построение функции цели; выбор переменных",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "В задачах линейного программирования находятся:",
+    "answers": [
+      {
+        "text": "Область значений целевой функции",
+        "correct": false
+      },
+      {
+        "text": "Промежутки монотонности целевой функции",
+        "correct": true
+      },
+      {
+        "text": "Промежутки знакопостоянства целевой функции",
+        "correct": false
+      },
+      {
+        "text": "Экстремумы целевой функции",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "При производстве трех видов продукции А, В и С используют три вида сырья  m, n, к. Для изготовления продукции А требуется затратить сырья m, n, к соответственно 1,2,3, для продукции В – 2,1,1, а для продукции С – 1,2,2. Предприятие обеспечено сырьем  m, n, к – в количестве соответственно 100, 80, 120. Прибыль от реализации продукта А составляет 3 рубля, В – 4 рубля и С – 1 рубль. Математическая модель задачи будет иметь вид:",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/3A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/3B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/3C.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/3D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Выпишите матрицу коэффициентов системы линейных уравнений:",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/4A.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/4B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/4C.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/4D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Для изготовления двух видов полуфабрикатов А и В используется три вида продуктов 1,2,3. Для производства единицы полуфабриката А требуется затратить продуктов 1,2,3 соответственно 0,1 кг., 0,3 кг., 0,25 кг., а для производства единицы полуфабриката В – 0,15 кг., 0,4 кг., 0,35 кг. Предприятие обеспечено продукции 1,2,3 в количестве 600 кг., 750 кг., 800 кг. Прибыль от реализации полуфабриката В – 78 руб., а полуфабриката А – 63 руб. Математическая модель задачи будет иметь вид:",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/5A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/5B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/5C.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/5D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Для трех видов продукции П1, П2 и П3 используется три вида сырья C1, C2 и C3. Предприятие может израсходовать 32т сырья , не менее 40т сырья  и не более 50т сырья  . Нормы расхода сырья на единицу продукции того или иного вида приведены в таблице. Здесь же указаны трудовые и энергетические затраты на производство единицы продукции  . Определить количества продукции вида  которые следует производить при минимальных затратах энергетических и трудовых ресурсов. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/6.png",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/6A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/6B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/6C.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/6D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Мебельная фабрика выпускает столы, стулья и книжные шкафы. При изготовлении этих изделий используется два различных типа досок: I и II. Фабрика имеет в наличии 1500м досок I типа и 1000м досок II типа. Кроме того, заданы трудовые ресурсы в количестве 800чел.-ч. Нормативы затрат каждого вида ресурсов на изготовление 1 единицы изделия и прибыль на 1единицу изделия приведены в следующей таблице https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/7.png Требуется определить оптимальный ассортимент выпускаемой продукции, максимизирующий прибыль.",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/7A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/7B.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/7C.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/7D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Графическим методом задачи линейного программирования можно решать если:",
+    "answers": [
+      {
+        "text": "не более 4 переменных",
+        "correct": false
+      },
+      {
+        "text": "не более 5 переменных",
+        "correct": false
+      },
+      {
+        "text": "не более 3 переменных",
+        "correct": true
+      },
+      {
+        "text": "не более 6 переменных",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Дана задача линейного программирования: F(x)=-3x1+2x2 → extr при заданных ограничениях: https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/9.png Укажите направляющий вектор C целевой функции.",
+    "answers": [
+      {
+        "text": "C (-3;2)",
+        "correct": true
+      },
+      {
+        "text": "C (5;3)",
+        "correct": false
+      },
+      {
+        "text": "C (-2:1)",
+        "correct": false
+      },
+      {
+        "text": "C (1;-1)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Геометрический объект, определяющийся линейным неравенством это",
+    "answers": [
+      {
+        "text": "Плоскость",
+        "correct": true
+      },
+      {
+        "text": "прямая",
+        "correct": false
+      },
+      {
+        "text": "полуплоскость",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Оптимальное решение задачи линейного программирования это",
+    "answers": [
+      {
+        "text": "решение системы ограничений",
+        "correct": false
+      },
+      {
+        "text": "опорное решение",
+        "correct": false
+      },
+      {
+        "text": "решение, которое доставляет экстремум функции",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Направляющий вектор при решении задачи https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/12.png геометрическим методом имеет координаты",
+    "answers": [
+      {
+        "text": "(-5; 1)",
+        "correct": true
+      },
+      {
+        "text": "(-5; -1)",
+        "correct": false
+      },
+      {
+        "text": "(5; -1)",
+        "correct": false
+      },
+      {
+        "text": "(5; 1)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "После введения балансовых переменных система ограничений https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/13.png",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/13A.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/13B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/13C.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/13D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Симплексный метод применяется при решении задач линейного программирования, заданных в:",
+    "answers": [
+      {
+        "text": "симметричной форме",
+        "correct": false
+      },
+      {
+        "text": "канонической форме",
+        "correct": true
+      },
+      {
+        "text": "общей форме",
+        "correct": false
+      },
+      {
+        "text": "текстовой форм",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "На рисунке сплошными линиями выделены разрешающие строка и столбец в исходной матрице системы линейных уравнений. По правилу прямоугольника значение элемента в новой расширенной матрице системы вычисляется по формуле: https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/15.png",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/15A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/15B.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/15C.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/15D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Укажите базисное решение системы https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/16.png",
+    "answers": [
+      {
+        "text": "(0;8;0;6;0)",
+        "correct": true
+      },
+      {
+        "text": "(8;6;0;0;0)",
+        "correct": false
+      },
+      {
+        "text": "(0;0;8;6;0)",
+        "correct": false
+      },
+      {
+        "text": "(0;0;8;0;6)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "В таблице записаны данные исходной задачи линейного программирования и выделен разрешающий коэффициент. Вычислите новое значение коэффициента. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/17.png",
+    "answers": [
+      {
+        "text": "–3",
+        "correct": false
+      },
+      {
+        "text": "–1",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "В таблице записаны данные исходной задачи линейного программирования и выделен разрешающий коэффициент. Вычислите новое значение коэффициента. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/18.png",
+    "answers": [
+      {
+        "text": "11",
+        "correct": true
+      },
+      {
+        "text": "–5",
+        "correct": false
+      },
+      {
+        "text": "3",
+        "correct": false
+      },
+      {
+        "text": "5",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Укажите оптимальное решение ЗЛП, полученное симплекс методом. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/19.png",
+    "answers": [
+      {
+        "text": "(1; 0; 6; 0; 5)",
+        "correct": false
+      },
+      {
+        "text": "(1; 0; 5; 6; 0)",
+        "correct": true
+      },
+      {
+        "text": "(6; 1; 5; 0; 0)",
+        "correct": false
+      },
+      {
+        "text": "(1; 0; 0; 5; 6)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Укажите оптимальное решение ЗЛП, полученное симплекс методом. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/20.png",
+    "answers": [
+      {
+        "text": "(4; 1; 3; 0; 0)",
+        "correct": false
+      },
+      {
+        "text": "(0; 0; 3; 4; 1)",
+        "correct": false
+      },
+      {
+        "text": "(3; 0; 0; 4; 1)",
+        "correct": true
+      },
+      {
+        "text": "(0; 4; 0; 1; 3)",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "В процессе решения ЗЛП симплекс методом получено оптимальное решение задачи. Укажите характер задачи и значение целевой функции. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21.png",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21C.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "В процессе решения ЗЛП симплекс методом получено оптимальное решение задачи. Укажите характер задачи и значение целевой функции. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22.png",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22C.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Как называются последовательные симплекс-таблицы",
+    "answers": [
+      {
+        "text": "Фаза",
+        "correct": false
+      },
+      {
+        "text": "Цикл",
+        "correct": false
+      },
+      {
+        "text": "Итерация",
+        "correct": true
+      },
+      {
+        "text": "Блок",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Процесс решения, используя симплекс-метод, продолжается до тех пор, пока не будет достигнуто:",
+    "answers": [
+      {
+        "text": "наименьшее значение",
+        "correct": false
+      },
+      {
+        "text": "наибольшее значение",
+        "correct": false
+      },
+      {
+        "text": "наименьшее или наибольшее значение",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Последнее базисное решение называется",
+    "answers": [
+      {
+        "text": "допустимое",
+        "correct": false
+      },
+      {
+        "text": "оптимальное",
+        "correct": true
+      },
+      {
+        "text": "максимальное",
+        "correct": false
+      },
+      {
+        "text": "Минимальное",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "К какому виду нужно привести задачу, для решения её табличным симплекс-методом?",
+    "answers": [
+      {
+        "text": "к графическому",
+        "correct": false
+      },
+      {
+        "text": "к каноническому",
+        "correct": true
+      },
+      {
+        "text": "к базисному",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Переменные, относительно которых разрешена система линейных уравнений, называются",
+    "answers": [
+      {
+        "text": "базисными",
+        "correct": true
+      },
+      {
+        "text": "свободными",
+        "correct": false
+      },
+      {
+        "text": "Разрешающими",
+        "correct": false
+      },
+      {
+        "text": "Балансовыми",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Как формулируется вопрос транспортной задачи:",
+    "answers": [
+      {
+        "text": "Определить оптимальное число скорых и пассажирских поездов, при котором количество перевозимых пассажиров будет максимальным",
+        "correct": false
+      },
+      {
+        "text": "Составить оптимальный план выпуска продукции, при котором будет достигнута максимальная прибыль от реализации продукции",
+        "correct": false
+      },
+      {
+        "text": "Определить план перевозки груза так, чтобы удовлетворить потребности всех потребителей, а суммарные затраты на перевозку груза были наименьшими.",
+        "correct": true
+      },
+      {
+        "text": "Определить оптимальный рацион кормления скота из условия минимума себестоимости продуктов.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Какая из следующих транспортных задач является закрытой?",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/29A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/29B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/29C.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/29D.png",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Какая из следующих транспортных задач является открытой?",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/30A.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/30B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/30C.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/30D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Пусть имеется m пунктов отправления груза A1, A2, …, Am и n пунктов назначения того же груза B1, B2, …, Bn. Всякий построенный план перевозок должен занимать в распределительной таблице занятых клеток:",
+    "answers": [
+      {
+        "text": "M + n -1",
+        "correct": true
+      },
+      {
+        "text": "M + n + 1",
+        "correct": false
+      },
+      {
+        "text": "M + n - 2",
+        "correct": false
+      },
+      {
+        "text": "M + n + 2",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Задана транспортная задача. Укажите исходный план перевозок груза, построенный по методу северо-западного угла. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/32.png",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/32A.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/32B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/32C.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/32D.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Дана матрица стоимостей перевозки груза https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/33.png и построен опорный план перевозок, заданный в таблице. Рассчитайте суммарную стоимость построенного плана: https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/33(1).png",
+    "answers": [
+      {
+        "text": "1000",
+        "correct": false
+      },
+      {
+        "text": "850",
+        "correct": false
+      },
+      {
+        "text": "900",
+        "correct": true
+      },
+      {
+        "text": "950",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Если суммарные ресурсы поставщиков не равны суммарным потребностям, то имеет место",
+    "answers": [
+      {
+        "text": "закрытая модель транспортной задачи",
+        "correct": false
+      },
+      {
+        "text": "открытая модель транспортной задачи",
+        "correct": true
+      },
+      {
+        "text": "исходный план перевозок",
+        "correct": false
+      },
+      {
+        "text": "распределительная таблица",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Дана транспортная задача https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/35.png При каком значении X транспортная задача будет закрытой",
+    "answers": [
+      {
+        "text": "210",
+        "correct": false
+      },
+      {
+        "text": "220",
+        "correct": true
+      },
+      {
+        "text": "185",
+        "correct": false
+      },
+      {
+        "text": "130",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Дана матрица стоимостей перевозки груза https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/36.png и построен опорный план перевозок, заданный в таблице. Рассчитайте суммарную стоимость построенного плана: https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/36(1).png",
+    "answers": [
+      {
+        "text": "570",
+        "correct": true
+      },
+      {
+        "text": "590",
+        "correct": false
+      },
+      {
+        "text": "650",
+        "correct": false
+      },
+      {
+        "text": "690",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "В основу динамического программирования положен(ы) принцип(ы):",
+    "answers": [
+      {
+        "text": "принцип оптимальности",
+        "correct": true
+      },
+      {
+        "text": "принцип вложения",
+        "correct": true
+      },
+      {
+        "text": "принцип непрерывности",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "38. В вычислении задачи поиска кратчайшего пути применяются",
+    "answers": [
+      {
+        "text": "корреляционные коэффициенты",
+        "correct": false
+      },
+      {
+        "text": "уравнения регрессии",
+        "correct": false
+      },
+      {
+        "text": "рекуррентные соотношения",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "39. Найти длину кратчайшего пути (маленький рисунок) https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/39.png",
+    "answers": [
+      {
+        "text": "8",
+        "correct": false
+      },
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": false
+      },
+      {
+        "text": "11",
+        "correct": true
+      },
+      {
+        "text": "12",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "40. Найти длину кратчайшего пути (БОЛЬШОЙ РИСУНОК) https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/40.png = 1). 8",
+    "answers": [
+      {
+        "text": "9",
+        "correct": false
+      },
+      {
+        "text": "10",
+        "correct": false
+      },
+      {
+        "text": "11",
+        "correct": false
+      },
+      {
+        "text": "12",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Основные классы имитационных моделей:",
+    "answers": [
+      {
+        "text": "Непрерывные, дискретные",
+        "correct": false
+      },
+      {
+        "text": "Непрерывные, дискретные, пространственные",
+        "correct": true
+      },
+      {
+        "text": "Дискретные, пространственные",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Случайный процесс, протекающий в системе, называется _____________, если для любого момента времени t0 вероятностные характеристики процесса в будущем зависят только от его состояния в данный момент t0 и не зависят от того, когда и как система пришла в это состояние",
+    "answers": [
+      {
+        "text": "Марковским",
+        "correct": true
+      },
+      {
+        "text": "Колмогоровским",
+        "correct": false
+      },
+      {
+        "text": "Эйлеровским",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Процесс называется ___________, если его возможные состояния S1, S2, … можно заранее определить, и переход системы из состояния в состояние происходит «скачком», практически мгновенно",
+    "answers": [
+      {
+        "text": "процессом с непрерывным временем",
+        "correct": false
+      },
+      {
+        "text": "случайным процессом",
+        "correct": false
+      },
+      {
+        "text": "процессом с дискретным состоянием",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Процесс называется ____________, если моменты возможных переходов из состояния в состояние не фиксированы заранее, а неопределенны, случайны и могут произойти в любой момент",
+    "answers": [
+      {
+        "text": "процессом с непрерывным временем",
+        "correct": true
+      },
+      {
+        "text": "случайным процессом",
+        "correct": false
+      },
+      {
+        "text": "процессом с дискретным состоянием",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "При анализе случайных процессов с дискретными состояниями удобно пользоваться геометрической схемой",
+    "answers": [
+      {
+        "text": "графом состояний",
+        "correct": false
+      },
+      {
+        "text": "ориентированным графом",
+        "correct": true
+      },
+      {
+        "text": "картой Карно",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Вершины графа состояний – это",
+    "answers": [
+      {
+        "text": "степень системы",
+        "correct": false
+      },
+      {
+        "text": "состояния системы",
+        "correct": true
+      },
+      {
+        "text": "возможные переходы из состояния в состояние",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Дуги графа состояний – это",
+    "answers": [
+      {
+        "text": "степень системы",
+        "correct": false
+      },
+      {
+        "text": "состояния системы",
+        "correct": false
+      },
+      {
+        "text": "возможные переходы из состояния в состояние",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Последовательность однородных событий, следующих одно за другим в какие-то случайные моменты времени",
+    "answers": [
+      {
+        "text": "поток событий",
+        "correct": true
+      },
+      {
+        "text": "интенсивность потока событий",
+        "correct": false
+      },
+      {
+        "text": "поток без последствий",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Последовательность однородных событий, следующих одно за другим в какие-то случайные моменты времени",
+    "answers": [
+      {
+        "text": "поток событий",
+        "correct": true
+      },
+      {
+        "text": "интенсивность потока событий",
+        "correct": false
+      },
+      {
+        "text": "поток без последствий",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Среднее число событий, приходящееся на единицу времени",
+    "answers": [
+      {
+        "text": "поток событий",
+        "correct": false
+      },
+      {
+        "text": "интенсивность потока событий",
+        "correct": true
+      },
+      {
+        "text": "поток без последствий",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Системы массового обслуживания:",
+    "answers": [
+      {
+        "text": "телефонные станции",
+        "correct": false
+      },
+      {
+        "text": "ремонтные мастерские",
+        "correct": false
+      },
+      {
+        "text": "станочные и другие технологические системы",
+        "correct": false
+      },
+      {
+        "text": "все вышеперечисленное",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Системы массового обслуживания состоит из какого-то количества обслуживающих единиц, которые называются",
+    "answers": [
+      {
+        "text": "каналами обслуживания",
+        "correct": true
+      },
+      {
+        "text": "потоками обслуживания",
+        "correct": false
+      },
+      {
+        "text": "заявками обслуживания",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Система массового обслуживания предназначена для обслуживания …………, поступающих в случайные моменты времени",
+    "answers": [
+      {
+        "text": "потока заявок",
+        "correct": true
+      },
+      {
+        "text": "потока предложений",
+        "correct": false
+      },
+      {
+        "text": "потока спроса на предложения",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Классификация систем массового обслуживания (СМО)",
+    "answers": [
+      {
+        "text": "СМО с отказами, СМО с очередью",
+        "correct": true
+      },
+      {
+        "text": "СМО с потоками, СМО с заявлениями",
+        "correct": false
+      },
+      {
+        "text": "СМО с   предложениями, СМО с заявлениями",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Процесс предвидения, предсказания будущего характера процессов на основе информации об их протекании в прошлом и настоящем",
+    "answers": [
+      {
+        "text": "Прогноз",
+        "correct": false
+      },
+      {
+        "text": "Прогнозирование",
+        "correct": true
+      },
+      {
+        "text": "Заблуждение",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Вероятностное суждение о будущем состоянии объекта исследования – это",
+    "answers": [
+      {
+        "text": "Прогноз",
+        "correct": true
+      },
+      {
+        "text": "Прогнозирование",
+        "correct": false
+      },
+      {
+        "text": "Заблуждение",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Основная квалификация прогнозирования:",
+    "answers": [
+      {
+        "text": "предвидения, предсказания",
+        "correct": false
+      },
+      {
+        "text": "качественные и количественные методы",
+        "correct": true
+      },
+      {
+        "text": "все вышеперечисленные варианты",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Качественные методы прогнозирования используют",
+    "answers": [
+      {
+        "text": "экспертные оценки, мозговые штурмы, интуитивные и персональные суждения",
+        "correct": true
+      },
+      {
+        "text": "анализ временных рядов, метод экспоненциального сглаживания и регрессионный анализ",
+        "correct": false
+      },
+      {
+        "text": "все вышеперечисленные варианты",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Количественные методы прогнозирования используют",
+    "answers": [
+      {
+        "text": "экспертные оценки, мозговые штурмы, интуитивные и персональные суждения",
+        "correct": false
+      },
+      {
+        "text": "анализ временных рядов, метод экспоненциального сглаживания и регрессионный анализ",
+        "correct": true
+      },
+      {
+        "text": "все вышеперечисленные варианты",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Этот количественный метод прогнозирования применяется, если есть достаточный массив статистических данных, позволяющих выявить значимые факторы, влияющие на размер рынка ИКТ или на объемы сбыта конкретной компании",
+    "answers": [
+      {
+        "text": "Регрессионный анализ",
+        "correct": true
+      },
+      {
+        "text": "Индексный метод",
+        "correct": false
+      },
+      {
+        "text": "Метод скользящей средней",
+        "correct": false
+      },
+      {
+        "text": "Метод экспоненциального сглаживания",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Этот количественный метод основан на допущении, что закономерности, лежащие в основе достигнутых показателей в прошлом, могут быть использованы и на будущий период",
+    "answers": [
+      {
+        "text": "Регрессионный анализ",
+        "correct": false
+      },
+      {
+        "text": "Индексный метод",
+        "correct": true
+      },
+      {
+        "text": "Метод скользящей средней",
+        "correct": false
+      },
+      {
+        "text": "Метод экспоненциального сглаживания",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Этот количественный метод позволяет построить сглаживающую кривую и его применяют в тех случаях, когда исследуемый параметр подвержен значительным колебаниям, линейная экстраполяция может привести к большой погрешности прогноза",
+    "answers": [
+      {
+        "text": "Регрессионный анализ",
+        "correct": false
+      },
+      {
+        "text": "Индексный метод",
+        "correct": false
+      },
+      {
+        "text": "Метод скользящей средней",
+        "correct": true
+      },
+      {
+        "text": "Метод экспоненциального сглаживания",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Сущность метода состоит в том, что временной ряд сглаживается с помощью взвешенной скользящей средней, в которой веса распределены по экспоненциальному закону. Данный метод учитывает ошибку прогноза, которая имела место в прошлый период, путем сравнения сглаженного прогноза за предыдущий период с фактическими объемами продаж. Метод применяется для краткосрочных прогнозов.",
+    "answers": [
+      {
+        "text": "Регрессионный анализ",
+        "correct": false
+      },
+      {
+        "text": "Индексный метод",
+        "correct": false
+      },
+      {
+        "text": "Метод скользящей средней",
+        "correct": false
+      },
+      {
+        "text": "Метод экспоненциального сглаживания",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Качественные методы прогнозирования предполагают обращение к ……",
+    "answers": [
+      {
+        "text": "мнению экспертов – людей, наиболее компетентных по исследуемым вопросам",
+        "correct": true
+      },
+      {
+        "text": "исследуемым факторам",
+        "correct": false
+      },
+      {
+        "text": "опросу выбранной аудитории",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Мнение жюри, модель ожидания потребителей, метод экспертных оценок – это",
+    "answers": [
+      {
+        "text": "количественные методы",
+        "correct": false
+      },
+      {
+        "text": "качественные методы",
+        "correct": true
+      },
+      {
+        "text": "все вышеперечисленные варианты",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Промежуток времени, на который разрабатывается прогноз",
+    "answers": [
+      {
+        "text": "Точность прогноза",
+        "correct": false
+      },
+      {
+        "text": "Прогнозный горизонт",
+        "correct": false
+      },
+      {
+        "text": "Период упреждения прогноза",
+        "correct": true
+      },
+      {
+        "text": "Достоверность прогноза",
+        "correct": false
+      },
+      {
+        "text": "Ошибка прогноза",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Максимально возможный период упреждения прогноза заданной точности",
+    "answers": [
+      {
+        "text": "Точность прогноза",
+        "correct": false
+      },
+      {
+        "text": "Прогнозный горизонт",
+        "correct": true
+      },
+      {
+        "text": "Период упреждения прогноза",
+        "correct": false
+      },
+      {
+        "text": "Достоверность прогноза",
+        "correct": false
+      },
+      {
+        "text": "Ошибка прогноза",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Оценка доверительного интервала прогноза (х1, х2) для заданной вероятности р его осуществления",
+    "answers": [
+      {
+        "text": "Точность прогноза",
+        "correct": true
+      },
+      {
+        "text": "Прогнозный горизонт",
+        "correct": false
+      },
+      {
+        "text": "Период упреждения прогноза",
+        "correct": false
+      },
+      {
+        "text": "Достоверность прогноза",
+        "correct": false
+      },
+      {
+        "text": "Ошибка прогноза",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Оценка вероятности осуществления прогноза для заданного доверительного интервала",
+    "answers": [
+      {
+        "text": "Точность прогноза",
+        "correct": false
+      },
+      {
+        "text": "Прогнозный горизонт",
+        "correct": false
+      },
+      {
+        "text": "Период упреждения прогноза",
+        "correct": false
+      },
+      {
+        "text": "Достоверность прогноза",
+        "correct": true
+      },
+      {
+        "text": "Ошибка прогноза",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Величина отклонения прогноза от действительного состояния объекта",
+    "answers": [
+      {
+        "text": "Точность прогноза",
+        "correct": false
+      },
+      {
+        "text": "Прогнозный горизонт",
+        "correct": false
+      },
+      {
+        "text": "Период упреждения прогноза",
+        "correct": false
+      },
+      {
+        "text": "Достоверность прогноза",
+        "correct": false
+      },
+      {
+        "text": "Ошибка прогноза",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Банк исследует динамику депозитов физических лиц в течение года https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/70.png Трехточечное сглаживание скользящей средней имеет вид:",
+    "answers": [
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/70A.png",
+        "correct": true
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/70B.png",
+        "correct": false
+      },
+      {
+        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/70C.png",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Формализованная модель конфликтной ситуации, включающей определенные правила действий участников, добивающихся выигрыша в результате принятия той или иной стратегии",
+    "answers": [
+      {
+        "text": "прогноз",
+        "correct": false
+      },
+      {
+        "text": "игра",
+        "correct": true
+      },
+      {
+        "text": "задача поиска",
+        "correct": false
+      },
+      {
+        "text": "задача согласования",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Игра, игроки, партия, выигрыш, проигрыш, ход, личные и случайные ходы, стратегические игры, стратегия, оптимальная стратегия. Основные понятия …..",
+    "answers": [
+      {
+        "text": "теории игр",
+        "correct": true
+      },
+      {
+        "text": "случайной величины",
+        "correct": false
+      },
+      {
+        "text": "теории вероятностей",
+        "correct": false
+      }
+    ]
+  }
+]
