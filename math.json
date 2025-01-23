@@ -105,7 +105,7 @@
     ]
   },
   {
-    "question": "Для трех видов продукции П1, П2 и П3 используется три вида сырья C1, C2 и C3. Предприятие может израсходовать 32т сырья , не менее 40т сырья  и не более 50т сырья  . Нормы расхода сырья на единицу продукции того или иного вида приведены в таблице. Здесь же указаны трудовые и энергетические затраты на производство единицы продукции  . Определить количества продукции вида  которые следует производить при минимальных затратах энергетических и трудовых ресурсов. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/6.png",
+    "question": "Для трех видов продукции П1, П2 и П3 используется три вида сырья C1, C2 и C3. Предприятие может израсходовать 32т сырья , не менее 40т сырья  и не более 50т сырья  . Нормы расхода сырья на единицу продукции того или иного вида приведены в таблице. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/6.png Здесь же указаны трудовые и энергетические затраты на производство единицы продукции  . Определить количества продукции вида  которые следует производить при минимальных затратах энергетических и трудовых ресурсов.",
     "answers": [
       {
         "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/6A.png",
@@ -218,7 +218,7 @@
       },
       {
         "text": "решение, которое доставляет экстремум функции",
-        "correct": false
+        "correct": true
       }
     ]
   },
@@ -328,7 +328,7 @@
     ]
   },
   {
-    "question": "В таблице записаны данные исходной задачи линейного программирования и выделен разрешающий коэффициент. Вычислите новое значение коэффициента. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/17.png",
+    "question": "В таблице записаны данные исходной задачи линейного программирования и выделен разрешающий коэффициент. Вычислите новое значение коэффициента a13. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/17.png",
     "answers": [
       {
         "text": "–3",
@@ -349,7 +349,7 @@
     ]
   },
   {
-    "question": "В таблице записаны данные исходной задачи линейного программирования и выделен разрешающий коэффициент. Вычислите новое значение коэффициента. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/18.png",
+    "question": "В таблице записаны данные исходной задачи линейного программирования и выделен разрешающий коэффициент. Вычислите новое значение коэффициента b3. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/18.png",
     "answers": [
       {
         "text": "11",
@@ -415,19 +415,19 @@
     "question": "В процессе решения ЗЛП симплекс методом получено оптимальное решение задачи. Укажите характер задачи и значение целевой функции. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21.png",
     "answers": [
       {
-        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21A.png",
+        "text": "Fmax = -18",
+        "correct": true
+      },
+      {
+        "text": "Fmax = 18",
         "correct": false
       },
       {
-        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21B.png",
+        "text": "Fmin = -18",
         "correct": false
       },
       {
-        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21C.png",
-        "correct": false
-      },
-      {
-        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/21D.png",
+        "text": "Fmin = 18",
         "correct": false
       }
     ]
@@ -436,19 +436,19 @@
     "question": "В процессе решения ЗЛП симплекс методом получено оптимальное решение задачи. Укажите характер задачи и значение целевой функции. https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22.png",
     "answers": [
       {
-        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22A.png",
+        "text": "Fmax = -103",
         "correct": false
       },
       {
-        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22B.png",
-        "correct": false
-      },
-      {
-        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22C.png",
+        "text": "Fmax = 103",
         "correct": true
       },
       {
-        "text": "https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/22D.png",
+        "text": "Fmin = -103",
+        "correct": false
+      },
+      {
+        "text": "Fmin = 103",
         "correct": false
       }
     ]
@@ -799,8 +799,12 @@
     ]
   },
   {
-    "question": "40. Найти длину кратчайшего пути (БОЛЬШОЙ РИСУНОК) https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/40.png = 1). 8",
+    "question": "40. Найти длину кратчайшего пути (БОЛЬШОЙ РИСУНОК) https://vkkedsgdpjzsjqjrbbfh.supabase.co/storage/v1/object/public/attachments/matan/40.png",
     "answers": [
+      {
+        "text": "8",
+        "correct": true
+      },
       {
         "text": "9",
         "correct": false
@@ -935,23 +939,6 @@
       {
         "text": "возможные переходы из состояния в состояние",
         "correct": true
-      }
-    ]
-  },
-  {
-    "question": "Последовательность однородных событий, следующих одно за другим в какие-то случайные моменты времени",
-    "answers": [
-      {
-        "text": "поток событий",
-        "correct": true
-      },
-      {
-        "text": "интенсивность потока событий",
-        "correct": false
-      },
-      {
-        "text": "поток без последствий",
-        "correct": false
       }
     ]
   },
