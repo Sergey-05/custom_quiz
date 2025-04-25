@@ -1,0 +1,2594 @@
+[
+        {
+            "question": "A very fast computer that runs powerful work programs.",
+            "answers": [
+                {"text": "Laptop", "correct": false},
+                {"text": "Desktop computer", "correct": false},
+                {"text": "Supercomputer", "correct": true},
+                {"text": "Workstation", "correct": false}
+            ]
+        },
+        {
+            "question": "A large computer that is built to process large amounts of information at a higher speed than other computers can handle.",
+            "answers": [
+                {"text": "Laptop", "correct": false},
+                {"text": "Supercomputer", "correct": true},
+                {"text": "Workstation", "correct": false},
+                {"text": "Desktop computer", "correct": false}
+            ]
+        },
+        {
+            "question": "A computer that is small enough for you to carry around and use anywhere.",
+            "answers": [
+                {"text": "Desktop computer", "correct": false},
+                {"text": "Supercomputer", "correct": false},
+                {"text": "Workstation", "correct": false},
+                {"text": "Laptop", "correct": true}
+            ]
+        },
+        {
+            "question": "A computer that is small enough to use at a desk, but too big to carry around.",
+            "answers": [
+                {"text": "Desktop computer", "correct": true},
+                {"text": "Laptop", "correct": false},
+                {"text": "Supercomputer", "correct": false},
+                {"text": "Workstation", "correct": false}
+            ]
+        },
+        {
+            "question": "Employees _____ laptops when they work outside of the office.",
+            "answers": [
+                {"text": "usually uses", "correct": false},
+                {"text": "usually using", "correct": false},
+                {"text": "usually use", "correct": true},
+                {"text": "use usually", "correct": false}
+            ]
+        },
+        {
+            "question": "A cell phone is a device that _____ and _____ calls.",
+            "answers": [
+                {"text": "make / receive", "correct": false},
+                {"text": "makes / receive", "correct": false},
+                {"text": "makes / receives", "correct": true},
+                {"text": "make / receives", "correct": false}
+            ]
+        },
+        {
+            "question": "Diplomats _____ English in their work as a rule.",
+            "answers": [
+                {"text": "use", "correct": true},
+                {"text": "uses", "correct": false},
+                {"text": "are using", "correct": false},
+                {"text": "are use", "correct": false}
+            ]
+        },
+        {
+            "question": "Professor Higgins _____ his reports in that hall.",
+            "answers": [
+                {"text": "usually make", "correct": false},
+                {"text": "usually makes", "correct": true},
+                {"text": "makes usually", "correct": false},
+                {"text": "make usually", "correct": false}
+            ]
+        },
+        {
+            "question": "Yesterday Jack _____ on some powerful programs.",
+            "answers": [
+                {"text": "had worked", "correct": false},
+                {"text": "works", "correct": false},
+                {"text": "will work", "correct": false},
+                {"text": "worked", "correct": true}
+            ]
+        },
+        {
+            "question": "Last week Mary _____ valuable software.",
+            "answers": [
+                {"text": "created", "correct": true},
+                {"text": "creates", "correct": false},
+                {"text": "create", "correct": false},
+                {"text": "will create", "correct": false}
+            ]
+        },
+        {
+            "question": "They _____ the abacus more than 2000 years ago.",
+            "answers": [
+                {"text": "invent", "correct": false},
+                {"text": "will invent", "correct": false},
+                {"text": "invented", "correct": true},
+                {"text": "invents", "correct": false}
+            ]
+        },
+        {
+            "question": "She _____ you a message by e-mail yesterday.",
+            "answers": [
+                {"text": "sent", "correct": true},
+                {"text": "send", "correct": false},
+                {"text": "sended", "correct": false},
+                {"text": "sends", "correct": false}
+            ]
+        },
+        {
+            "question": "The company _____ a mainframe next month.",
+            "answers": [
+                {"text": "has", "correct": false},
+                {"text": "have", "correct": false},
+                {"text": "will have", "correct": true},
+                {"text": "had", "correct": false}
+            ]
+        },
+        {
+            "question": "I don't think the exam _____ very difficult.",
+            "answers": [
+                {"text": "will be", "correct": true},
+                {"text": "will", "correct": false},
+                {"text": "is", "correct": false},
+                {"text": "was", "correct": false}
+            ]
+        },
+        {
+            "question": "The students _____ that problem at the next meeting.",
+            "answers": [
+                {"text": "discuss", "correct": false},
+                {"text": "discussed", "correct": false},
+                {"text": "discussing", "correct": false},
+                {"text": "will discuss", "correct": true}
+            ]
+        },
+        {
+            "question": "They _____ a new computer in a week.",
+            "answers": [
+                {"text": "buy", "correct": false},
+                {"text": "will buy", "correct": true},
+                {"text": "bought", "correct": false},
+                {"text": "buys", "correct": false}
+            ]
+        },
+        {
+            "question": "Scientists _____ speeches at international conferences.",
+            "answers": [
+                {"text": "often makes", "correct": false},
+                {"text": "make often", "correct": false},
+                {"text": "makes often", "correct": false},
+                {"text": "often make", "correct": true}
+            ]
+        },
+        {
+            "question": "I _____ many mistakes in my control paper the day before yesterday.",
+            "answers": [
+                {"text": "don't make", "correct": false},
+                {"text": "won't make", "correct": false},
+                {"text": "didn't make", "correct": true},
+                {"text": "wasn't make", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ worry, everything _____ OK.",
+            "answers": [
+                {"text": "Not, will be", "correct": false},
+                {"text": "Don't, will be", "correct": true},
+                {"text": "Don't, will", "correct": false},
+                {"text": "Not, will", "correct": false}
+            ]
+        },
+        {
+            "question": "Computer operators _____ instructions in English as a rule.",
+            "answers": [
+                {"text": "read", "correct": true},
+                {"text": "reads", "correct": false},
+                {"text": "are read", "correct": false},
+                {"text": "will read", "correct": false}
+            ]
+        },
+        {
+            "question": "Extra circuit boards that are used to increase the functions of a computer.",
+            "answers": [
+                {"text": "heat sink", "correct": false},
+                {"text": "expansion cards", "correct": true},
+                {"text": "power supply", "correct": false},
+                {"text": "motherboard", "correct": false}
+            ]
+        },
+        {
+            "question": "A firm slotted board onto which computer circuitry is attached.",
+            "answers": [
+                {"text": "motherboard", "correct": true},
+                {"text": "expansion cards", "correct": false},
+                {"text": "power supply", "correct": false},
+                {"text": "heat sink", "correct": false}
+            ]
+        },
+        {
+            "question": "It delivers electricity to all parts of a computer.",
+            "answers": [
+                {"text": "motherboard", "correct": false},
+                {"text": "expansion cards", "correct": false},
+                {"text": "power supply", "correct": true},
+                {"text": "heat sink", "correct": false}
+            ]
+        },
+        {
+            "question": "It transfers heat away from nearby components of a computer.",
+            "answers": [
+                {"text": "power supply", "correct": false},
+                {"text": "motherboard", "correct": false},
+                {"text": "expansion cards", "correct": false},
+                {"text": "heat sink", "correct": true}
+            ]
+        },
+        {
+            "question": "The computer _____ at the moment.",
+            "answers": [
+                {"text": "is functioning", "correct": true},
+                {"text": "function", "correct": false},
+                {"text": "are functioning", "correct": false},
+                {"text": "functions", "correct": false}
+            ]
+        },
+        {
+            "question": "Several of my colleagues _____ at home this week.",
+            "answers": [
+                {"text": "is working", "correct": false},
+                {"text": "are working", "correct": true},
+                {"text": "works", "correct": false},
+                {"text": "work", "correct": false}
+            ]
+        },
+        {
+            "question": "How _____ on?",
+            "answers": [
+                {"text": "are you getting", "correct": true},
+                {"text": "you are getting", "correct": false},
+                {"text": "you getting", "correct": false},
+                {"text": "do you get", "correct": false}
+            ]
+        },
+        {
+            "question": "It's a fine day. It _____.",
+            "answers": [
+                {"text": "doesn't rain", "correct": false},
+                {"text": "doesn't raining", "correct": false},
+                {"text": "isn't raining", "correct": true},
+                {"text": "isn't rain", "correct": false}
+            ]
+        },
+        {
+            "question": "When I came into the office, the employees _____ data.",
+            "answers": [
+                {"text": "are encoding", "correct": false},
+                {"text": "were encoding", "correct": true},
+                {"text": "was encoding", "correct": false},
+                {"text": "encode", "correct": false}
+            ]
+        },
+        {
+            "question": "A software engineer _____ the program when we came in.",
+            "answers": [
+                {"text": "was repairing", "correct": true},
+                {"text": "is repairing", "correct": false},
+                {"text": "repaired", "correct": false},
+                {"text": "were repairing", "correct": false}
+            ]
+        },
+        {
+            "question": "We saw an accident while we _____ for the bus.",
+            "answers": [
+                {"text": "was waiting", "correct": false},
+                {"text": "waited", "correct": false},
+                {"text": "were waiting", "correct": true},
+                {"text": "are waiting", "correct": false}
+            ]
+        },
+        {
+            "question": "The doorbell rang while I _____ a shower.",
+            "answers": [
+                {"text": "were having", "correct": false},
+                {"text": "had", "correct": false},
+                {"text": "am having", "correct": false},
+                {"text": "was having", "correct": true}
+            ]
+        },
+        {
+            "question": "Tomorrow at 6 p.m. the programmer _____ a new program.",
+            "answers": [
+                {"text": "will write", "correct": false},
+                {"text": "writes", "correct": false},
+                {"text": "will be writing", "correct": true},
+                {"text": "will writing", "correct": false}
+            ]
+        },
+        {
+            "question": "This time next week I _____ email.",
+            "answers": [
+                {"text": "will answer", "correct": false},
+                {"text": "am answering", "correct": false},
+                {"text": "will be answer", "correct": false},
+                {"text": "will be answering", "correct": true}
+            ]
+        },
+        {
+            "question": "This time next week I _____ on a beach or _____ in the sea.",
+            "answers": [
+                {"text": "will be lying, swimming", "correct": true},
+                {"text": "will lie, swim", "correct": false},
+                {"text": "will lying, swimming", "correct": false},
+                {"text": "will be lying, swim", "correct": false}
+            ]
+        },
+        {
+            "question": "Do you think _____ the same job in ten years' time?",
+            "answers": [
+                {"text": "are you still doing", "correct": false},
+                {"text": "will you still be doing", "correct": false},
+                {"text": "you will still be doing", "correct": true},
+                {"text": "you will still doing", "correct": false}
+            ]
+        },
+        {
+            "question": "A system for computer network to receive IP addresses and other configuration information.",
+            "answers": [
+                {"text": "LAN", "correct": false},
+                {"text": "WLAN", "correct": false},
+                {"text": "DHCP", "correct": true},
+                {"text": "CAT-5 cables", "correct": false}
+            ]
+        },
+        {
+            "question": "A network that connects a small group of computers.",
+            "answers": [
+                {"text": "LAN", "correct": true},
+                {"text": "WLAN", "correct": false},
+                {"text": "DHCP", "correct": false},
+                {"text": "CAT-5 cables", "correct": false}
+            ]
+        },
+        {
+            "question": "The standard cables that connect computers to networks.",
+            "answers": [
+                {"text": "LAN", "correct": false},
+                {"text": "WLAN", "correct": false},
+                {"text": "DHCP", "correct": false},
+                {"text": "CAT-5 cables", "correct": true}
+            ]
+        },
+        {
+            "question": "A network that connects computers to a network without cables.",
+            "answers": [
+                {"text": "LAN", "correct": false},
+                {"text": "WLAN", "correct": true},
+                {"text": "DHCP", "correct": false},
+                {"text": "CAT-5 cables", "correct": false}
+            ]
+        },
+        {
+            "question": "A method that allows computer users to receive email from a server.",
+            "answers": [
+                {"text": "POP 3", "correct": true},
+                {"text": "domain name", "correct": false},
+                {"text": "attachment", "correct": false},
+                {"text": "SMTP", "correct": false}
+            ]
+        },
+        {
+            "question": "A method that allows computer users to send emails to other users.",
+            "answers": [
+                {"text": "POP 3", "correct": false},
+                {"text": "SMTP", "correct": true},
+                {"text": "attachment", "correct": false},
+                {"text": "domain name", "correct": false}
+            ]
+        },
+        {
+            "question": "A file that is sent with an email.",
+            "answers": [
+                {"text": "domain name", "correct": false},
+                {"text": "SMTP", "correct": false},
+                {"text": "attachment", "correct": true},
+                {"text": "POP 3", "correct": false}
+            ]
+        },
+        {
+            "question": "A set of words and letters that identify company or address on the Internet.",
+            "answers": [
+                {"text": "SMTP", "correct": false},
+                {"text": "attachment", "correct": false},
+                {"text": "POP 3", "correct": false},
+                {"text": "domain name", "correct": true}
+            ]
+        },
+        {
+            "question": "When I _____ her, she _____ the phone.",
+            "answers": [
+                {"text": "see / answered", "correct": false},
+                {"text": "saw / was answering", "correct": true},
+                {"text": "saw / answering", "correct": false},
+                {"text": "saw / is answering", "correct": false}
+            ]
+        },
+        {
+            "question": "He _____ coffee when she _____ him to modify the program.",
+            "answers": [
+                {"text": "was drinking / was asking", "correct": false},
+                {"text": "drank / was asking", "correct": false},
+                {"text": "was drinking / asked", "correct": true},
+                {"text": "drank / asked", "correct": false}
+            ]
+        },
+        {
+            "question": "Our computer engineers and system analysts _____ software programs now.",
+            "answers": [
+                {"text": "are designing", "correct": true},
+                {"text": "were designing", "correct": false},
+                {"text": "design", "correct": false},
+                {"text": "designed", "correct": false}
+            ]
+        },
+        {
+            "question": "At the moment Jack _____ on updating the program.",
+            "answers": [
+                {"text": "work", "correct": false},
+                {"text": "is working", "correct": true},
+                {"text": "works", "correct": false},
+                {"text": "are working", "correct": false}
+            ]
+        },
+        {
+            "question": "The ability of one program or file to work with a different program.",
+            "answers": [
+                {"text": "macro", "correct": false},
+                {"text": "spell check", "correct": false},
+                {"text": "layout", "correct": false},
+                {"text": "compatibility", "correct": true}
+            ]
+        },
+        {
+            "question": "The way that items are arranged on a document.",
+            "answers": [
+                {"text": "macro", "correct": false},
+                {"text": "spell check", "correct": false},
+                {"text": "layout", "correct": true},
+                {"text": "compatibility", "correct": false}
+            ]
+        },
+        {
+            "question": "A function that reviews a document for spelling errors.",
+            "answers": [
+                {"text": "macro", "correct": false},
+                {"text": "spell check", "correct": true},
+                {"text": "layout", "correct": false},
+                {"text": "compatibility", "correct": false}
+            ]
+        },
+        {
+            "question": "A short keystroke that performs a predetermined action.",
+            "answers": [
+                {"text": "macro", "correct": true},
+                {"text": "spell check", "correct": false},
+                {"text": "layout", "correct": false},
+                {"text": "compatibility", "correct": false}
+            ]
+        },
+        {
+            "question": "A computer language that is used to construct web sites on the Internet.",
+            "answers": [
+                {"text": "http", "correct": false},
+                {"text": "URL", "correct": false},
+                {"text": "HTML", "correct": true},
+                {"text": "meta tag", "correct": false}
+            ]
+        },
+        {
+            "question": "Text that is used in the codes of a web page to provide information about the site to search engine.",
+            "answers": [
+                {"text": "http", "correct": false},
+                {"text": "URL", "correct": false},
+                {"text": "HTML", "correct": false},
+                {"text": "meta tag", "correct": true}
+            ]
+        },
+        {
+            "question": "A part of an Internet address that allows a computer to connect to the site.",
+            "answers": [
+                {"text": "http", "correct": true},
+                {"text": "URL", "correct": false},
+                {"text": "HTML", "correct": false},
+                {"text": "meta tag", "correct": false}
+            ]
+        },
+        {
+            "question": "The text and symbols that form a web address.",
+            "answers": [
+                {"text": "http", "correct": false},
+                {"text": "URL", "correct": true},
+                {"text": "HTML", "correct": false},
+                {"text": "meta tag", "correct": false}
+            ]
+        },
+        {
+            "question": "He _____ a new laptop today.",
+            "answers": [
+                {"text": "has bought", "correct": true},
+                {"text": "have bought", "correct": false},
+                {"text": "bought", "correct": false},
+                {"text": "buys", "correct": false}
+            ]
+        },
+        {
+            "question": "He _____ in programming since his childhood.",
+            "answers": [
+                {"text": "has been interesting", "correct": false},
+                {"text": "was interested", "correct": false},
+                {"text": "has been interested", "correct": true},
+                {"text": "was interesting", "correct": false}
+            ]
+        },
+        {
+            "question": "Alice and Mike _____ to the seaside this summer.",
+            "answers": [
+                {"text": "has gone", "correct": false},
+                {"text": "have gone", "correct": true},
+                {"text": "went", "correct": false},
+                {"text": "go", "correct": false}
+            ]
+        },
+        {
+            "question": "I think it is the best vacation they _____.",
+            "answers": [
+                {"text": "ever took", "correct": false},
+                {"text": "ever have taken", "correct": false},
+                {"text": "have taken ever", "correct": false},
+                {"text": "have ever taken", "correct": true}
+            ]
+        },
+        {
+            "question": "We weren't hungry. We _____ lunch.",
+            "answers": [
+                {"text": "just had", "correct": false},
+                {"text": "have just had", "correct": false},
+                {"text": "had had just", "correct": false},
+                {"text": "had just had", "correct": true}
+            ]
+        },
+        {
+            "question": "They _____ their suitcases before I came.",
+            "answers": [
+                {"text": "have packed", "correct": false},
+                {"text": "had packed", "correct": true},
+                {"text": "packed", "correct": false},
+                {"text": "were packed", "correct": false}
+            ]
+        },
+        {
+            "question": "I _____ to test a new program by 6 p.m.",
+            "answers": [
+                {"text": "will finish", "correct": false},
+                {"text": "will be finishing", "correct": false},
+                {"text": "will have finish", "correct": false},
+                {"text": "will have finished", "correct": true}
+            ]
+        },
+        {
+            "question": "The film_____ by the time we get to the cinema.",
+            "answers": [
+                {"text": "will already have started", "correct": true},
+                {"text": "will already start", "correct": false},
+                {"text": "will already have start", "correct": false},
+                {"text": "already start", "correct": false}
+            ]
+        },
+        {
+            "question": "Jack _____ a desktop computer last month, but now he _____ it down.",
+            "answers": [
+                {"text": "bought / has broken", "correct": true},
+                {"text": "has bought / broke", "correct": false},
+                {"text": "bought / broke", "correct": false},
+                {"text": "has bought / has broken", "correct": false}
+            ]
+        },
+        {
+            "question": "Shakespeare _____ many plays. My sister is a writer. She _____ many books.",
+            "answers": [
+                {"text": "has written / wrote", "correct": false},
+                {"text": "wrote / has written", "correct": true},
+                {"text": "wrote / wrote", "correct": false},
+                {"text": "has written / has written", "correct": false}
+            ]
+        },
+        {
+            "question": "I _____ golf. (in my life)",
+            "answers": [
+                {"text": "never played", "correct": false},
+                {"text": "played never", "correct": false},
+                {"text": "have never played", "correct": true},
+                {"text": "have never play", "correct": false}
+            ]
+        },
+        {
+            "question": "I _____ golf when I was on holiday last summer.",
+            "answers": [
+                {"text": "don't play", "correct": false},
+                {"text": "didn't played", "correct": false},
+                {"text": "haven't played", "correct": false},
+                {"text": "didn't play", "correct": true}
+            ]
+        },
+        {
+            "question": "When Sarah _____ at the party, Paul _____ home.",
+            "answers": [
+                {"text": "arrived / already went", "correct": false},
+                {"text": "had arrived / already went", "correct": false},
+                {"text": "arrived / had already gone", "correct": true},
+                {"text": "arrived / has already gone", "correct": false}
+            ]
+        },
+        {
+            "question": "When I _____ into the office, everyone _____ to work.",
+            "answers": [
+                {"text": "came / has already finished", "correct": false},
+                {"text": "came / had already finished", "correct": true},
+                {"text": "had come / already finished", "correct": false},
+                {"text": "came / had already finish", "correct": false}
+            ]
+        },
+        {
+            "question": "When we got home last night, we found that somebody _____ into the flat.",
+            "answers": [
+                {"text": "broke", "correct": false},
+                {"text": "has broken", "correct": false},
+                {"text": "had broken", "correct": true},
+                {"text": "was broken", "correct": false}
+            ]
+        },
+        {
+            "question": "Karen didn't want to come to the cinema with us because she _____ the film.",
+            "answers": [
+                {"text": "had already seen", "correct": true},
+                {"text": "already saw", "correct": false},
+                {"text": "has already seen", "correct": false},
+                {"text": "already seen", "correct": false}
+            ]
+        },
+        {
+            "question": "I _____ for you for the last half hour.",
+            "answers": [
+                {"text": "am looking", "correct": false},
+                {"text": "have looked", "correct": false},
+                {"text": "look", "correct": false},
+                {"text": "have been looking", "correct": true}
+            ]
+        },
+        {
+            "question": "She _____ English since her childhood.",
+            "answers": [
+                {"text": "is learning", "correct": false},
+                {"text": "has been learning", "correct": true},
+                {"text": "learns", "correct": false},
+                {"text": "has learning", "correct": false}
+            ]
+        },
+        {
+            "question": "It _____ since lunchtime.",
+            "answers": [
+                {"text": "is raining", "correct": false},
+                {"text": "has raining", "correct": false},
+                {"text": "has been raining", "correct": true},
+                {"text": "have been raining", "correct": false}
+            ]
+        },
+        {
+            "question": "My hands are very dirty. I _____ the car.",
+            "answers": [
+                {"text": "have been repairing", "correct": true},
+                {"text": "repair", "correct": false},
+                {"text": "have repaired", "correct": false},
+                {"text": "repaired", "correct": false}
+            ]
+        },
+        {
+            "question": "The car is OK again now. I _____ it.",
+            "answers": [
+                {"text": "repaired", "correct": false},
+                {"text": "repair", "correct": false},
+                {"text": "have repaired", "correct": true},
+                {"text": "have been repairing", "correct": false}
+            ]
+        },
+        {
+            "question": "Ken gave up smoking two years ago. He _____ for 30 years.",
+            "answers": [
+                {"text": "had been smoking", "correct": true},
+                {"text": "smokes", "correct": false},
+                {"text": "smoked", "correct": false},
+                {"text": "has been smoking", "correct": false}
+            ]
+        },
+        {
+            "question": "I was very tired when I arrived home. I _____ hard all day.",
+            "answers": [
+                {"text": "worked", "correct": false},
+                {"text": "work", "correct": false},
+                {"text": "had been working", "correct": true},
+                {"text": "am working", "correct": false}
+            ]
+        },
+        {
+            "question": "How long _____ Jane?",
+            "answers": [
+                {"text": "do you know", "correct": false},
+                {"text": "have you known", "correct": true},
+                {"text": "have you been knowing", "correct": false},
+                {"text": "you know", "correct": false}
+            ]
+        },
+        {
+            "question": "A large group of data organized in a computer system. It allows you to search and find information easily.",
+            "answers": [
+                {"text": "spreadsheet", "correct": false},
+                {"text": "worksheet", "correct": false},
+                {"text": "cell", "correct": false},
+                {"text": "database", "correct": true}
+            ]
+        },
+        {
+            "question": "A computer program that organizes information and perform calculations.",
+            "answers": [
+                {"text": "worksheet", "correct": false},
+                {"text": "spreadsheet", "correct": true},
+                {"text": "cell", "correct": false},
+                {"text": "database", "correct": false}
+            ]
+        },
+        {
+            "question": "A single page of a spreadsheet.",
+            "answers": [
+                {"text": "spreadsheet", "correct": false},
+                {"text": "worksheet", "correct": true},
+                {"text": "cell", "correct": false},
+                {"text": "database", "correct": false}
+            ]
+        },
+        {
+            "question": "A unit of a spreadsheet that holds a piece of information.",
+            "answers": [
+                {"text": "spreadsheet", "correct": false},
+                {"text": "worksheet", "correct": false},
+                {"text": "database", "correct": false},
+                {"text": "cell", "correct": true}
+            ]
+        },
+        {
+            "question": "An icon that has been moved to a desktop to make opening a file or program easier.",
+            "answers": [
+                {"text": "pointer", "correct": false},
+                {"text": "shortcut", "correct": true},
+                {"text": "folder", "correct": false},
+                {"text": "graphical user interface", "correct": false}
+            ]
+        },
+        {
+            "question": "An operating system that uses icons to represent programs and files and allow users to access to them.",
+            "answers": [
+                {"text": "pointer", "correct": false},
+                {"text": "shortcut", "correct": false},
+                {"text": "folder", "correct": false},
+                {"text": "graphical user interface", "correct": true}
+            ]
+        },
+        {
+            "question": "It holds and organizes files and documents on a computer.",
+            "answers": [
+                {"text": "pointer", "correct": false},
+                {"text": "shortcut", "correct": false},
+                {"text": "folder", "correct": true},
+                {"text": "graphical user interface", "correct": false}
+            ]
+        },
+        {
+            "question": "A small arrow that lets a user choose what to do on a computer.",
+            "answers": [
+                {"text": "pointer", "correct": true},
+                {"text": "shortcut", "correct": false},
+                {"text": "folder", "correct": false},
+                {"text": "graphical user interface", "correct": false}
+            ]
+        },
+        {
+            "question": "To move files, folders or icons around on a desktop.",
+            "answers": [
+                {"text": "drag", "correct": true},
+                {"text": "cycle", "correct": false},
+                {"text": "query", "correct": false},
+                {"text": "sort", "correct": false}
+            ]
+        },
+        {
+            "question": "A search that locates all information of a specific type in a database.",
+            "answers": [
+                {"text": "drag", "correct": false},
+                {"text": "cycle", "correct": false},
+                {"text": "query", "correct": true},
+                {"text": "sort", "correct": false}
+            ]
+        },
+        {
+            "question": "To arrange the information in a database in a specific way.",
+            "answers": [
+                {"text": "drag", "correct": false},
+                {"text": "cycle", "correct": false},
+                {"text": "query", "correct": false},
+                {"text": "sort", "correct": true}
+            ]
+        },
+        {
+            "question": "To turn a device on a network off and then turn it on again or to unplug from its power source.",
+            "answers": [
+                {"text": "drag", "correct": false},
+                {"text": "cycle", "correct": false},
+                {"text": "query", "correct": false},
+                {"text": "sort", "correct": false}
+            ]
+        },
+        {
+            "question": "It's hard to see the details of this picture. Please_____ it so that it is bigger.",
+            "answers": [
+                {"text": "contrast", "correct": false},
+                {"text": "resize", "correct": true},
+                {"text": "graphic editing program", "correct": false},
+                {"text": "crop", "correct": false}
+            ]
+        },
+        {
+            "question": "I want to edit my pictures. I need a _____.",
+            "answers": [
+                {"text": "contrast", "correct": false},
+                {"text": "resize", "correct": false},
+                {"text": "graphic editing program", "correct": true},
+                {"text": "crop", "correct": false}
+            ]
+        },
+        {
+            "question": "I don't like the background of this picture. Let's _____ it out.",
+            "answers": [
+                {"text": "contrast", "correct": false},
+                {"text": "resize", "correct": false},
+                {"text": "graphic editing program", "correct": false},
+                {"text": "crop", "correct": true}
+            ]
+        },
+        {
+            "question": "This picture is too dark. Make the _____ a little lighter.",
+            "answers": [
+                {"text": "contrast", "correct": true},
+                {"text": "resize", "correct": false},
+                {"text": "graphic editing program", "correct": false},
+                {"text": "crop", "correct": false}
+            ]
+        },
+        {
+            "question": "There is no doubt that computer operators _____ have basic computer skills.",
+            "answers": [
+                {"text": "should", "correct": false},
+                {"text": "must", "correct": true},
+                {"text": "cannot", "correct": false},
+                {"text": "could", "correct": false}
+            ]
+        },
+        {
+            "question": "A real professional _____ do without knowledge of English.",
+            "answers": [
+                {"text": "should", "correct": false},
+                {"text": "must", "correct": false},
+                {"text": "cannot", "correct": true},
+                {"text": "could", "correct": false}
+            ]
+        },
+        {
+            "question": "To get a good job a person _____ speak English well.",
+            "answers": [
+                {"text": "should", "correct": false},
+                {"text": "must", "correct": true},
+                {"text": "cannot", "correct": false},
+                {"text": "could", "correct": false}
+            ]
+        },
+        {
+            "question": "N. Lunacharsky _____ speak almost all European languages.",
+            "answers": [
+                {"text": "should", "correct": false},
+                {"text": "must", "correct": false},
+                {"text": "cannot", "correct": false},
+                {"text": "could", "correct": true}
+            ]
+        },
+        {
+            "question": "I'm so tired. I _____ for a week.",
+            "answers": [
+                {"text": "could sleep", "correct": true},
+                {"text": "could have slept", "correct": false},
+                {"text": "must sleep", "correct": false},
+                {"text": "must have slept", "correct": false}
+            ]
+        },
+        {
+            "question": "I was so tired yesterday. I _____ for a week.",
+            "answers": [
+                {"text": "could sleep", "correct": false},
+                {"text": "could have slept", "correct": true},
+                {"text": "must sleep", "correct": false},
+                {"text": "must have slept", "correct": false}
+            ]
+        },
+        {
+            "question": "I'm feeling sick. I _____ so much chocolate.",
+            "answers": [
+                {"text": "shouldn't eat", "correct": false},
+                {"text": "should eat", "correct": false},
+                {"text": "shouldn't have eaten", "correct": true},
+                {"text": "should have eaten", "correct": false}
+            ]
+        },
+        {
+            "question": "You look tired. You _____ to bed now.",
+            "answers": [
+                {"text": "should go", "correct": true},
+                {"text": "should have gone", "correct": false},
+                {"text": "may go", "correct": false},
+                {"text": "can go", "correct": false}
+            ]
+        },
+        {
+            "question": "We haven't got much time. We _____ hurry.",
+            "answers": [
+                {"text": "needn't", "correct": false},
+                {"text": "may", "correct": false},
+                {"text": "mustn't", "correct": false},
+                {"text": "must", "correct": true}
+            ]
+        },
+        {
+            "question": "We've got plenty of time. We _____ hurry.",
+            "answers": [
+                {"text": "needn't", "correct": true},
+                {"text": "must", "correct": false},
+                {"text": "need", "correct": false},
+                {"text": "mustn't", "correct": false}
+            ]
+        },
+        {
+            "question": "She's a really nice person. You _____ meet her.",
+            "answers": [
+                {"text": "have to", "correct": false},
+                {"text": "must", "correct": true},
+                {"text": "can", "correct": false},
+                {"text": "may", "correct": false}
+            ]
+        },
+        {
+            "question": "My eyesight isn't very good. I _____ wear glasses for reading.",
+            "answers": [
+                {"text": "can", "correct": false},
+                {"text": "may", "correct": false},
+                {"text": "have to", "correct": true},
+                {"text": "must", "correct": false}
+            ]
+        },
+        {
+            "question": "Shortcuts _____ on the desktop, and you can click them to get to a program quickly.",
+            "answers": [
+                {"text": "place", "correct": false},
+                {"text": "is placed", "correct": false},
+                {"text": "placed", "correct": false},
+                {"text": "are placed", "correct": true}
+            ]
+        },
+        {
+            "question": "Databases and spreadsheets _____ by employees incorrectly.",
+            "answers": [
+                {"text": "often use", "correct": false},
+                {"text": "are often used", "correct": true},
+                {"text": "is often used", "correct": false},
+                {"text": "often uses", "correct": false}
+            ]
+        },
+        {
+            "question": "An attachment is a file that _____ with an email.",
+            "answers": [
+                {"text": "is sent", "correct": true},
+                {"text": "is send", "correct": false},
+                {"text": "sends", "correct": false},
+                {"text": "sent", "correct": false}
+            ]
+        },
+        {
+            "question": "RAM is memory that _____.",
+            "answers": [
+                {"text": "can be quickly access", "correct": false},
+                {"text": "can quickly access", "correct": false},
+                {"text": "can be quickly accessed", "correct": true},
+                {"text": "can quickly accessed", "correct": false}
+            ]
+        },
+        {
+            "question": "A printer is a device that _____ by a computer to transfer ink onto paper.",
+            "answers": [
+                {"text": "uses", "correct": false},
+                {"text": "are used", "correct": false},
+                {"text": "use", "correct": false},
+                {"text": "is used", "correct": true}
+            ]
+        },
+        {
+            "question": "Layout is the way that items _____ on a document.",
+            "answers": [
+                {"text": "arranged", "correct": false},
+                {"text": "are arranged", "correct": true},
+                {"text": "is arranged", "correct": false},
+                {"text": "arrange", "correct": false}
+            ]
+        },
+        {
+            "question": "The battery _____ at the moment.",
+            "answers": [
+                {"text": "is being charged", "correct": true},
+                {"text": "is charging", "correct": false},
+                {"text": "is being charge", "correct": false},
+                {"text": "is being charging", "correct": false}
+            ]
+        },
+        {
+            "question": "The oil _____ now.",
+            "answers": [
+                {"text": "is changing", "correct": false},
+                {"text": "is being change", "correct": false},
+                {"text": "is being changed", "correct": true},
+                {"text": "changes", "correct": false}
+            ]
+        },
+        {
+            "question": "The balcony door _____ before the thunderstorm broke out.",
+            "answers": [
+                {"text": "hadn't closed", "correct": false},
+                {"text": "didn't close", "correct": false},
+                {"text": "hadn't been closed", "correct": true},
+                {"text": "hadn't been close", "correct": false}
+            ]
+        },
+        {
+            "question": "They had repaired the TV set but the player _____ by the New Year.",
+            "answers": [
+                {"text": "hadn't repaired", "correct": false},
+                {"text": "hadn't been repaired", "correct": true},
+                {"text": "wasn't repaired", "correct": false},
+                {"text": "didn't repair", "correct": false}
+            ]
+        },
+        {
+            "question": "The hardware devices attached to the computer _____ peripheral equipment.",
+            "answers": [
+                {"text": "is called", "correct": false},
+                {"text": "were called", "correct": false},
+                {"text": "will be called", "correct": false},
+                {"text": "are called", "correct": true}
+            ]
+        },
+        {
+            "question": "Software _____ into two categories: System Software and Application Software.",
+            "answers": [
+                {"text": "can be classified", "correct": true},
+                {"text": "can classify", "correct": false},
+                {"text": "can be classify", "correct": false},
+                {"text": "can classified", "correct": false}
+            ]
+        },
+        {
+            "question": "It is a group of disk drives that are connected and used as a single unit.",
+            "answers": [
+                {"text": "USB flash drive", "correct": false},
+                {"text": "zip drive", "correct": false},
+                {"text": "array", "correct": true},
+                {"text": "floppy disk", "correct": false}
+            ]
+        },
+        {
+            "question": "It is a flexible magnetic storage disk encased in a square plastic shell that is used to transfer data.",
+            "answers": [
+                {"text": "USB flash drive", "correct": false},
+                {"text": "zip drive", "correct": false},
+                {"text": "array", "correct": false},
+                {"text": "floppy disk", "correct": true}
+            ]
+        },
+        {
+            "question": "It is a portable flash memory system that uses a USB interface to connect to a computer and transfer information.",
+            "answers": [
+                {"text": "USB flash drive", "correct": true},
+                {"text": "zip drive", "correct": false},
+                {"text": "array", "correct": false},
+                {"text": "floppy disk", "correct": false}
+            ]
+        },
+        {
+            "question": "It is a removable disk storage system that is typically used to transfer data.",
+            "answers": [
+                {"text": "USB flash drive", "correct": false},
+                {"text": "zip drive", "correct": true},
+                {"text": "array", "correct": false},
+                {"text": "floppy disk", "correct": false}
+            ]
+        },
+        {
+            "question": "Using _____ blurs a photo's detail.",
+            "answers": [
+                {"text": "digital zoom", "correct": true},
+                {"text": "optical zoom", "correct": false},
+                {"text": "upload", "correct": false},
+                {"text": "freeze", "correct": false}
+            ]
+        },
+        {
+            "question": "A thicker lens will increase your camera's _____.",
+            "answers": [
+                {"text": "digital zoom", "correct": false},
+                {"text": "optical zoom", "correct": true},
+                {"text": "upload", "correct": false},
+                {"text": "freeze", "correct": false}
+            ]
+        },
+        {
+            "question": "Did you _____ the file yet?",
+            "answers": [
+                {"text": "digital zoom", "correct": false},
+                {"text": "optical zoom", "correct": false},
+                {"text": "upload", "correct": true},
+                {"text": "freeze", "correct": false}
+            ]
+        },
+        {
+            "question": "Computers _____ when too many programs are open.",
+            "answers": [
+                {"text": "digital zoom", "correct": false},
+                {"text": "optical zoom", "correct": false},
+                {"text": "upload", "correct": false},
+                {"text": "freeze", "correct": true}
+            ]
+        },
+        {
+            "question": "Every day Johnny _____ to a street corner and _____ for the school bus.",
+            "answers": [
+                {"text": "walks...waits", "correct": true},
+                {"text": "is walking...waits", "correct": false},
+                {"text": "walks...is waiting", "correct": false},
+                {"text": "is walking...is waiting", "correct": false}
+            ]
+        },
+        {
+            "question": "Ann _____ like her friend's dog; she thinks hers is better.",
+            "answers": [
+                {"text": "does", "correct": false},
+                {"text": "don't", "correct": false},
+                {"text": "doesn't", "correct": true},
+                {"text": "isn't", "correct": false}
+            ]
+        },
+        {
+            "question": "Kate is a vegetarian, she _____ meat.",
+            "answers": [
+                {"text": "isn't eating", "correct": false},
+                {"text": "hasn't been eating", "correct": false},
+                {"text": "doesn't eat", "correct": true},
+                {"text": "don't eat", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ you believe that Nick will go to London next month?",
+            "answers": [
+                {"text": "Are", "correct": false},
+                {"text": "Do", "correct": true},
+                {"text": "Is", "correct": false},
+                {"text": "Have", "correct": false}
+            ]
+        },
+        {
+            "question": "My sister _____ some new clothes last week.",
+            "answers": [
+                {"text": "had bought", "correct": false},
+                {"text": "bought", "correct": true},
+                {"text": "was buying", "correct": false},
+                {"text": "has bought", "correct": false}
+            ]
+        },
+        {
+            "question": "When _____ from his business trip?",
+            "answers": [
+                {"text": "has he returned", "correct": false},
+                {"text": "did he return", "correct": true},
+                {"text": "was he returning", "correct": false},
+                {"text": "did he returned", "correct": false}
+            ]
+        },
+        {
+            "question": "I _____ to Mr. Lloyds yesterday.",
+            "answers": [
+                {"text": "speak", "correct": false},
+                {"text": "spoke", "correct": true},
+                {"text": "speaks", "correct": false},
+                {"text": "will speak", "correct": false}
+            ]
+        },
+        {
+            "question": "The room was empty. There _____ nobody.",
+            "answers": [
+                {"text": "were", "correct": false},
+                {"text": "was", "correct": true},
+                {"text": "is", "correct": false},
+                {"text": "are", "correct": false}
+            ]
+        },
+        {
+            "question": "Her son _____ a computer soon. His father has given money for it.",
+            "answers": [
+                {"text": "have", "correct": false},
+                {"text": "will have", "correct": true},
+                {"text": "has", "correct": false},
+                {"text": "won't have", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ people work better if they are given complete freedom and responsibility?",
+            "answers": [
+                {"text": "Will", "correct": false},
+                {"text": "Were", "correct": false},
+                {"text": "Is", "correct": false},
+                {"text": "Do", "correct": true}
+            ]
+        },
+        {
+            "question": "Who _____ Phil with his homework tomorrow?",
+            "answers": [
+                {"text": "will help", "correct": true},
+                {"text": "helps", "correct": false},
+                {"text": "do help", "correct": false},
+                {"text": "has help", "correct": false}
+            ]
+        },
+        {
+            "question": "Boris _____ a new CPU in two days.",
+            "answers": [
+                {"text": "buy", "correct": false},
+                {"text": "buys", "correct": false},
+                {"text": "will buy", "correct": true},
+                {"text": "bought", "correct": false}
+            ]
+        },
+        {
+            "question": "The computer has a _____ of 64 bits.",
+            "answers": [
+                {"text": "bus speed", "correct": false},
+                {"text": "MB", "correct": false},
+                {"text": "bit size", "correct": true},
+                {"text": "RAM", "correct": false}
+            ]
+        },
+        {
+            "question": "The computer's CPU has a_____ of 800 MHz.",
+            "answers": [
+                {"text": "bus speed", "correct": true},
+                {"text": "MB", "correct": false},
+                {"text": "bit size", "correct": false},
+                {"text": "RAM", "correct": false}
+            ]
+        },
+        {
+            "question": "The computer comes with 900 _____ of RAM.",
+            "answers": [
+                {"text": "bus speed", "correct": false},
+                {"text": "MB", "correct": true},
+                {"text": "bit size", "correct": false},
+                {"text": "RAM", "correct": false}
+            ]
+        },
+        {
+            "question": "Install additional _____ into the motherboard.",
+            "answers": [
+                {"text": "bus speed", "correct": false},
+                {"text": "MB", "correct": false},
+                {"text": "bit size", "correct": false},
+                {"text": "RAM", "correct": true}
+            ]
+        },
+        {
+            "question": "It is a programming language that is used to program operating systems.",
+            "answers": [
+                {"text": "Assembler", "correct": false},
+                {"text": "C", "correct": true},
+                {"text": "C++", "correct": false},
+                {"text": "Java", "correct": false}
+            ]
+        },
+        {
+            "question": "It is a programming language that adds object-oriented programming capabilities to C.",
+            "answers": [
+                {"text": "Assembler", "correct": false},
+                {"text": "C", "correct": false},
+                {"text": "C++", "correct": true},
+                {"text": "Java", "correct": false}
+            ]
+        },
+        {
+            "question": "It is a low level programming language that translates between computer programs.",
+            "answers": [
+                {"text": "Assembler", "correct": true},
+                {"text": "C", "correct": false},
+                {"text": "C++", "correct": false},
+                {"text": "Java", "correct": false}
+            ]
+        },
+        {
+            "question": "It is an object-oriented programming language.",
+            "answers": [
+                {"text": "Assembler", "correct": false},
+                {"text": "C", "correct": false},
+                {"text": "C++", "correct": false},
+                {"text": "Java", "correct": true}
+            ]
+        },
+        {
+            "question": "This coffee shop has a(n) _____ so customers can go online.",
+            "answers": [
+                {"text": "antivirus software", "correct": false},
+                {"text": "ISP", "correct": false},
+                {"text": "hotspot", "correct": true},
+                {"text": "wireless router", "correct": false}
+            ]
+        },
+        {
+            "question": "Contact your _____ to get in touch with tech support.",
+            "answers": [
+                {"text": "antivirus software", "correct": false},
+                {"text": "ISP", "correct": true},
+                {"text": "hotspot", "correct": false},
+                {"text": "wireless router", "correct": false}
+            ]
+        },
+        {
+            "question": "You need a(n) _____ to get a Wi-Fi network.",
+            "answers": [
+                {"text": "antivirus software", "correct": false},
+                {"text": "ISP", "correct": false},
+                {"text": "hotspot", "correct": false},
+                {"text": "wireless router", "correct": true}
+            ]
+        },
+        {
+            "question": "Using _____ protects your computer.",
+            "answers": [
+                {"text": "antivirus software", "correct": true},
+                {"text": "ISP", "correct": false},
+                {"text": "hotspot", "correct": false},
+                {"text": "wireless router", "correct": false}
+            ]
+        },
+        {
+            "question": "A feature of some cell phones that lets you dial a number by voice instead of by hand.",
+            "answers": [
+                {"text": "voice activation", "correct": true},
+                {"text": "voicemail", "correct": false},
+                {"text": "caller ID", "correct": false},
+                {"text": "call waiting", "correct": false}
+            ]
+        },
+        {
+            "question": "A feature that lets you listen to or leave an electronic spoken message on a cell phone.",
+            "answers": [
+                {"text": "voice activation", "correct": false},
+                {"text": "voicemail", "correct": true},
+                {"text": "caller ID", "correct": false},
+                {"text": "call waiting", "correct": false}
+            ]
+        },
+        {
+            "question": "A feature of some cell phones that tells you the name and the number of person calling you.",
+            "answers": [
+                {"text": "voice activation", "correct": false},
+                {"text": "voicemail", "correct": false},
+                {"text": "caller ID", "correct": true},
+                {"text": "call waiting", "correct": false}
+            ]
+        },
+        {
+            "question": "A feature of some cell phones which alerts you that someone is calling while you are on the line with someone else.",
+            "answers": [
+                {"text": "voice activation", "correct": false},
+                {"text": "voicemail", "correct": false},
+                {"text": "caller ID", "correct": false},
+                {"text": "call waiting", "correct": true}
+            ]
+        },
+        {
+            "question": "Tom can _____ tennis well but he wasn't able _____ a game yesterday because he was ill.",
+            "answers": [
+                {"text": "play, to play", "correct": true},
+                {"text": "to play, to play", "correct": false},
+                {"text": "play, play", "correct": false},
+                {"text": "to play, play", "correct": false}
+            ]
+        },
+        {
+            "question": "It's high time for you _____ working.",
+            "answers": [
+                {"text": "to start", "correct": true},
+                {"text": "start", "correct": false},
+                {"text": "starting", "correct": false},
+                {"text": "to be starting", "correct": false}
+            ]
+        },
+        {
+            "question": "He promised _____ late.",
+            "answers": [
+                {"text": "not be", "correct": false},
+                {"text": "not to be", "correct": true},
+                {"text": "not being", "correct": false},
+                {"text": "don't be", "correct": false}
+            ]
+        },
+        {
+            "question": "We asked how _____ to the station.",
+            "answers": [
+                {"text": "get", "correct": false},
+                {"text": "getting", "correct": false},
+                {"text": "to get", "correct": true},
+                {"text": "will get", "correct": false}
+            ]
+        },
+        {
+            "question": "We saw _____ out.",
+            "answers": [
+                {"text": "them go", "correct": true},
+                {"text": "them to go", "correct": false},
+                {"text": "they go", "correct": false},
+                {"text": "they to go", "correct": false}
+            ]
+        },
+        {
+            "question": "I've never seen _____.",
+            "answers": [
+                {"text": "she dances", "correct": false},
+                {"text": "she to dance", "correct": false},
+                {"text": "her to dance", "correct": false},
+                {"text": "her dance", "correct": true}
+            ]
+        },
+        {
+            "question": "I didn't hear _____ in.",
+            "answers": [
+                {"text": "he comes", "correct": false},
+                {"text": "he to come", "correct": false},
+                {"text": "him come", "correct": true},
+                {"text": "him to come", "correct": false}
+            ]
+        },
+        {
+            "question": "Do you want _____ the router?",
+            "answers": [
+                {"text": "me to check", "correct": true},
+                {"text": "I to check", "correct": false},
+                {"text": "me check", "correct": false},
+                {"text": "I check", "correct": false}
+            ]
+        },
+        {
+            "question": "Известно, что он хороший программист.",
+            "answers": [
+                {"text": "He knows to be a good programmer.", "correct": false},
+                {"text": "He is known to be a good programmer.", "correct": true},
+                {"text": "He is a good programmer.", "correct": false},
+                {"text": "It knows he to be a good programmer.", "correct": false}
+            ]
+        },
+        {
+            "question": "Говорят, что он закончил университет.",
+            "answers": [
+                {"text": "He has graduated from the University.", "correct": false},
+                {"text": "He says to graduate from the University.", "correct": false},
+                {"text": "He is said to have graduated from the University.", "correct": true},
+                {"text": "It says he graduated from the University.", "correct": false}
+            ]
+        },
+        {
+            "question": "Ожидалось, что гости приедут утром.",
+            "answers": [
+                {"text": "The guests were expected to arrive in the morning.", "correct": true},
+                {"text": "They expected to arrive in the morning.", "correct": false},
+                {"text": "The guests are expected to arrive in the morning.", "correct": false},
+                {"text": "The guests expected will arrive in the morning.", "correct": false}
+            ]
+        },
+        {
+            "question": "Казалось, что погода улучшилась.",
+            "answers": [
+                {"text": "The weather is appeared has improved.", "correct": false},
+                {"text": "The weather appeared to improve.", "correct": false},
+                {"text": "The weather appeared to have improved.", "correct": true},
+                {"text": "The weather appeared improve.", "correct": false}
+            ]
+        },
+        {
+            "question": "Stop _____! You are too loud.",
+            "answers": [
+                {"text": "to talk", "correct": false},
+                {"text": "talk", "correct": false},
+                {"text": "talking", "correct": true},
+                {"text": "into talking", "correct": false}
+            ]
+        },
+        {
+            "question": "I think _____ should be forbidden in the workplace.",
+            "answers": [
+                {"text": "to smoke", "correct": false},
+                {"text": "smoke", "correct": false},
+                {"text": "smoking", "correct": true},
+                {"text": "smoked", "correct": false}
+            ]
+        },
+        {
+            "question": "We went _____ last holiday.",
+            "answers": [
+                {"text": "to hike", "correct": false},
+                {"text": "hiking", "correct": true},
+                {"text": "for hiking", "correct": false},
+                {"text": "to hiking", "correct": false}
+            ]
+        },
+        {
+            "question": "He enjoys _____ to music.",
+            "answers": [
+                {"text": "to listen", "correct": false},
+                {"text": "listening", "correct": true},
+                {"text": "for listening", "correct": false},
+                {"text": "to listening", "correct": false}
+            ]
+        },
+        {
+            "question": "All of Joe's contacts are saved on his _____.",
+            "answers": [
+                {"text": "barcode", "correct": false},
+                {"text": "data plan", "correct": false},
+                {"text": "email", "correct": false},
+                {"text": "PDA", "correct": true}
+            ]
+        },
+        {
+            "question": "To track the package you must scan its _____.",
+            "answers": [
+                {"text": "barcode", "correct": true},
+                {"text": "data plan", "correct": false},
+                {"text": "email", "correct": false},
+                {"text": "PDA", "correct": false}
+            ]
+        },
+        {
+            "question": "A(n) _____ allows users to browse the Internet on smartphones.",
+            "answers": [
+                {"text": "barcode", "correct": false},
+                {"text": "data plan", "correct": true},
+                {"text": "email", "correct": false},
+                {"text": "PDA", "correct": false}
+            ]
+        },
+        {
+            "question": "Please send a(n) _____ with the receipt attached.",
+            "answers": [
+                {"text": "barcode", "correct": false},
+                {"text": "data plan", "correct": false},
+                {"text": "email", "correct": true},
+                {"text": "PDA", "correct": false}
+            ]
+        },
+        {
+            "question": "An object's location east or west of the Prime Meridian.",
+            "answers": [
+                {"text": "latitude", "correct": false},
+                {"text": "longitude", "correct": true},
+                {"text": "navigation", "correct": false},
+                {"text": "waypoints", "correct": false}
+            ]
+        },
+        {
+            "question": "An object's location north or south of the Equator.",
+            "answers": [
+                {"text": "latitude", "correct": true},
+                {"text": "longitude", "correct": false},
+                {"text": "navigation", "correct": false},
+                {"text": "waypoints", "correct": false}
+            ]
+        },
+        {
+            "question": "Locations that you can mark or record in your GPS.",
+            "answers": [
+                {"text": "latitude", "correct": false},
+                {"text": "longitude", "correct": false},
+                {"text": "navigation", "correct": false},
+                {"text": "waypoints", "correct": true}
+            ]
+        },
+        {
+            "question": "The act of creating a route to a destination.",
+            "answers": [
+                {"text": "latitude", "correct": false},
+                {"text": "longitude", "correct": false},
+                {"text": "navigation", "correct": true},
+                {"text": "waypoints", "correct": false}
+            ]
+        },
+        {
+            "question": "The _____ site helps you meet other professionals.",
+            "answers": [
+                {"text": "feed", "correct": false},
+                {"text": "MMORPG", "correct": false},
+                {"text": "social networking", "correct": true},
+                {"text": "gaming", "correct": false}
+            ]
+        },
+        {
+            "question": "Sarah enjoys _____ and spends all her money on games.",
+            "answers": [
+                {"text": "feed", "correct": false},
+                {"text": "MMORPG", "correct": false},
+                {"text": "social networking", "correct": false},
+                {"text": "gaming", "correct": true}
+            ]
+        },
+        {
+            "question": "Shadow of Doubt is a(n) _____ with many players.",
+            "answers": [
+                {"text": "feed", "correct": false},
+                {"text": "MMORPG", "correct": true},
+                {"text": "social networking", "correct": false},
+                {"text": "gaming", "correct": false}
+            ]
+        },
+        {
+            "question": "I receive updates about products through a news _____.",
+            "answers": [
+                {"text": "feed", "correct": true},
+                {"text": "MMORPG", "correct": false},
+                {"text": "social networking", "correct": false},
+                {"text": "gaming", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ he will never agree to this plan is absolutely clear.",
+            "answers": [
+                {"text": "that", "correct": true},
+                {"text": "what", "correct": false},
+                {"text": "who", "correct": false},
+                {"text": "whoever", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ is elected Prime Minister, lives at 10, Downing Street.",
+            "answers": [
+                {"text": "that", "correct": false},
+                {"text": "what", "correct": false},
+                {"text": "who", "correct": false},
+                {"text": "whoever", "correct": true}
+            ]
+        },
+        {
+            "question": "_____ her mother was, was the question.",
+            "answers": [
+                {"text": "that", "correct": false},
+                {"text": "what", "correct": true},
+                {"text": "who", "correct": false},
+                {"text": "whoever", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ was done could not be underdone.",
+            "answers": [
+                {"text": "that", "correct": false},
+                {"text": "what", "correct": true},
+                {"text": "who", "correct": false},
+                {"text": "whoever", "correct": false}
+            ]
+        },
+        {
+            "question": "The decision is _____ we have been hoping for.",
+            "answers": [
+                {"text": "that", "correct": false},
+                {"text": "what", "correct": true},
+                {"text": "whether", "correct": false},
+                {"text": "whatever", "correct": false}
+            ]
+        },
+        {
+            "question": "But his chief trouble was _____ he didn't know any editor or writer.",
+            "answers": [
+                {"text": "that", "correct": true},
+                {"text": "what", "correct": false},
+                {"text": "whether", "correct": false},
+                {"text": "whatever", "correct": false}
+            ]
+        },
+        {
+            "question": "Time will show _____ I'm right or wrong.",
+            "answers": [
+                {"text": "that", "correct": false},
+                {"text": "what", "correct": false},
+                {"text": "whether", "correct": true},
+                {"text": "whatever", "correct": false}
+            ]
+        },
+        {
+            "question": "I'm always ready to listen to _____ you may say.",
+            "answers": [
+                {"text": "that", "correct": false},
+                {"text": "what", "correct": false},
+                {"text": "whether", "correct": false},
+                {"text": "whatever", "correct": true}
+            ]
+        },
+        {
+            "question": "The man _____ wants to buy my house is your friend.",
+            "answers": [
+                {"text": "who", "correct": true},
+                {"text": "that", "correct": false},
+                {"text": "where", "correct": false},
+                {"text": "why", "correct": false}
+            ]
+        },
+        {
+            "question": "The letter _____ arrived this morning was wrongly addressed.",
+            "answers": [
+                {"text": "who", "correct": false},
+                {"text": "that", "correct": true},
+                {"text": "where", "correct": false},
+                {"text": "why", "correct": false}
+            ]
+        },
+        {
+            "question": "We visited the town _____ I was born.",
+            "answers": [
+                {"text": "who", "correct": false},
+                {"text": "that", "correct": false},
+                {"text": "where", "correct": true},
+                {"text": "why", "correct": false}
+            ]
+        },
+        {
+            "question": "There must be a reason _____ you said that.",
+            "answers": [
+                {"text": "who", "correct": false},
+                {"text": "that", "correct": false},
+                {"text": "where", "correct": false},
+                {"text": "why", "correct": true}
+            ]
+        },
+        {
+            "question": "I have drawn a diagram _____ my explanation will be clear.",
+            "answers": [
+                {"text": "so that", "correct": true},
+                {"text": "as if", "correct": false},
+                {"text": "in the way", "correct": false},
+                {"text": "as", "correct": false}
+            ]
+        },
+        {
+            "question": "She acts _____ she owns the place.",
+            "answers": [
+                {"text": "so that", "correct": false},
+                {"text": "as if", "correct": true},
+                {"text": "in the way", "correct": false},
+                {"text": "as", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ I had no money with me, I didn't pay him.",
+            "answers": [
+                {"text": "so that", "correct": false},
+                {"text": "as if", "correct": false},
+                {"text": "in the way", "correct": false},
+                {"text": "as", "correct": true}
+            ]
+        },
+        {
+            "question": "They did it _____ I had never seen before.",
+            "answers": [
+                {"text": "so that", "correct": false},
+                {"text": "as if", "correct": false},
+                {"text": "in the way", "correct": true},
+                {"text": "as", "correct": false}
+            ]
+        },
+        {
+            "question": "The scientific study of robots and their structure and movement.",
+            "answers": [
+                {"text": "robotics", "correct": true},
+                {"text": "end-effector", "correct": false},
+                {"text": "manipulator", "correct": false},
+                {"text": "actuator", "correct": false}
+            ]
+        },
+        {
+            "question": "The hand or tool at the end of a robot's manipulator.",
+            "answers": [
+                {"text": "robotics", "correct": false},
+                {"text": "end-effector", "correct": true},
+                {"text": "manipulator", "correct": false},
+                {"text": "actuator", "correct": false}
+            ]
+        },
+        {
+            "question": "The arm of a robot.",
+            "answers": [
+                {"text": "robotics", "correct": false},
+                {"text": "end-effector", "correct": false},
+                {"text": "manipulator", "correct": true},
+                {"text": "actuator", "correct": false}
+            ]
+        },
+        {
+            "question": "A piece of equipment that makes a robot move.",
+            "answers": [
+                {"text": "robotics", "correct": false},
+                {"text": "end-effector", "correct": false},
+                {"text": "manipulator", "correct": false},
+                {"text": "actuator", "correct": true}
+            ]
+        },
+        {
+            "question": "Books or magazines produced by a publishing company.",
+            "answers": [
+                {"text": "PDF reader", "correct": false},
+                {"text": "offline", "correct": false},
+                {"text": "system requirements", "correct": false},
+                {"text": "publications", "correct": true}
+            ]
+        },
+        {
+            "question": "A program that opens text documents.",
+            "answers": [
+                {"text": "PDF reader", "correct": true},
+                {"text": "offline", "correct": false},
+                {"text": "system requirements", "correct": false},
+                {"text": "publications", "correct": false}
+            ]
+        },
+        {
+            "question": "Being available for use even when not connected to the Internet.",
+            "answers": [
+                {"text": "PDF reader", "correct": false},
+                {"text": "offline", "correct": true},
+                {"text": "system requirements", "correct": false},
+                {"text": "publications", "correct": false}
+            ]
+        },
+        {
+            "question": "The software or hardware that is needed to run a program.",
+            "answers": [
+                {"text": "PDF reader", "correct": false},
+                {"text": "offline", "correct": false},
+                {"text": "system requirements", "correct": true},
+                {"text": "publications", "correct": false}
+            ]
+        },
+        {
+            "question": "A library server program that allows remote users to access the library's electronic materials.",
+            "answers": [
+                {"text": "EZ proxy", "correct": true},
+                {"text": "VPN", "correct": false},
+                {"text": "subscription", "correct": false},
+                {"text": "remote access", "correct": false}
+            ]
+        },
+        {
+            "question": "A way to encrypt a connection using when you use remote access.",
+            "answers": [
+                {"text": "EZ proxy", "correct": false},
+                {"text": "VPN", "correct": true},
+                {"text": "subscription", "correct": false},
+                {"text": "remote access", "correct": false}
+            ]
+        },
+        {
+            "question": "The agreement to use something, often requiring a fee.",
+            "answers": [
+                {"text": "EZ proxy", "correct": false},
+                {"text": "VPN", "correct": false},
+                {"text": "subscription", "correct": true},
+                {"text": "remote access", "correct": false}
+            ]
+        },
+        {
+            "question": "The ability to use online library resources from outside the library.",
+            "answers": [
+                {"text": "EZ proxy", "correct": false},
+                {"text": "VPN", "correct": false},
+                {"text": "subscription", "correct": false},
+                {"text": "remote access", "correct": true}
+            ]
+        },
+        {
+            "question": "The process of classifying objects by examining their visual appearance.",
+            "answers": [
+                {"text": "pattern recognition", "correct": true},
+                {"text": "computer vision", "correct": false},
+                {"text": "algorithm", "correct": false},
+                {"text": "consciousness", "correct": false}
+            ]
+        },
+        {
+            "question": "The field and technology of making computers that have the ability to see.",
+            "answers": [
+                {"text": "pattern recognition", "correct": false},
+                {"text": "computer vision", "correct": true},
+                {"text": "algorithm", "correct": false},
+                {"text": "consciousness", "correct": false}
+            ]
+        },
+        {
+            "question": "The state of being aware of oneself and one's actions.",
+            "answers": [
+                {"text": "pattern recognition", "correct": false},
+                {"text": "computer vision", "correct": false},
+                {"text": "algorithm", "correct": false},
+                {"text": "consciousness", "correct": true}
+            ]
+        },
+        {
+            "question": "A rule or set of rules that provides steps to take or questions to ask in order to solve a problem.",
+            "answers": [
+                {"text": "pattern recognition", "correct": false},
+                {"text": "computer vision", "correct": false},
+                {"text": "algorithm", "correct": true},
+                {"text": "consciousness", "correct": false}
+            ]
+        },
+        {
+            "question": "If it _____ like rain, we _____at home.",
+            "answers": [
+                {"text": "look / will stay", "correct": false},
+                {"text": "looks / will stay", "correct": true},
+                {"text": "will look / will stay", "correct": false},
+                {"text": "will look / stay", "correct": false}
+            ]
+        },
+        {
+            "question": "If I _____ you, I _____ there myself.",
+            "answers": [
+                {"text": "was / will go", "correct": false},
+                {"text": "were / will go", "correct": false},
+                {"text": "were / would go", "correct": true},
+                {"text": "were / went", "correct": false}
+            ]
+        },
+        {
+            "question": "If it _____, I _____.",
+            "answers": [
+                {"text": "were not raining / could go out", "correct": true},
+                {"text": "was not raining / can go out", "correct": false},
+                {"text": "were not raining / can go out", "correct": false},
+                {"text": "is not raining / could go out", "correct": false}
+            ]
+        },
+        {
+            "question": "If he _____ on Friday, he _____ to go with us.",
+            "answers": [
+                {"text": "is working / isn't able", "correct": false},
+                {"text": "will be working / won't be able", "correct": true},
+                {"text": "will be working / isn't able", "correct": false},
+                {"text": "is working / won't be able", "correct": false}
+            ]
+        },
+        {
+            "question": "In case I _____ her at home, I _____ her a note.",
+            "answers": [
+                {"text": "won't find / will leave", "correct": false},
+                {"text": "don't find / will leave", "correct": true},
+                {"text": "don't find / leave", "correct": false},
+                {"text": "won't find / leave", "correct": false}
+            ]
+        },
+        {
+            "question": "If you knew him better, you _____ so.",
+            "answers": [
+                {"text": "won't think", "correct": false},
+                {"text": "don't think", "correct": false},
+                {"text": "wouldn't think", "correct": true},
+                {"text": "aren't think", "correct": false}
+            ]
+        },
+        {
+            "question": "If we don't hurry, we _____ late.",
+            "answers": [
+                {"text": "are", "correct": false},
+                {"text": "were", "correct": false},
+                {"text": "would be", "correct": false},
+                {"text": "will be", "correct": true}
+            ]
+        },
+        {
+            "question": "If his English were good, he _____ English books in the original.",
+            "answers": [
+                {"text": "reads", "correct": false},
+                {"text": "will read", "correct": false},
+                {"text": "would read", "correct": true},
+                {"text": "read", "correct": false}
+            ]
+        },
+        {
+            "question": "If it hadn't been so hot last summer, we _____ to the South.",
+            "answers": [
+                {"text": "would have gone", "correct": true},
+                {"text": "would go", "correct": false},
+                {"text": "will go", "correct": false},
+                {"text": "go", "correct": false}
+            ]
+        },
+        {
+            "question": "If he had the money, he _____ a car.",
+            "answers": [
+                {"text": "will buy", "correct": false},
+                {"text": "would buy", "correct": true},
+                {"text": "would have bought", "correct": false},
+                {"text": "bought", "correct": false}
+            ]
+        },
+        {
+            "question": "The view was wonderful. If I'd had a camera, I _____some photographs.",
+            "answers": [
+                {"text": "will take", "correct": false},
+                {"text": "took", "correct": false},
+                {"text": "would take", "correct": false},
+                {"text": "would have taken", "correct": true}
+            ]
+        },
+        {
+            "question": "If I had seen you, I _____ hello.",
+            "answers": [
+                {"text": "would have said", "correct": true},
+                {"text": "will say", "correct": false},
+                {"text": "would say", "correct": false},
+                {"text": "say", "correct": false}
+            ]
+        },
+        {
+            "question": "Do you ever wish you _____?",
+            "answers": [
+                {"text": "can fly", "correct": false},
+                {"text": "could fly", "correct": true},
+                {"text": "could have fly", "correct": false},
+                {"text": "fly", "correct": false}
+            ]
+        },
+        {
+            "question": "It's very crowded here. I wish there _____ so many people.",
+            "answers": [
+                {"text": "wasn't", "correct": false},
+                {"text": "weren't", "correct": true},
+                {"text": "hadn't been", "correct": false},
+                {"text": "will be", "correct": false}
+            ]
+        },
+        {
+            "question": "I feel sick. I wish I _____ so much cake. (I ate too much cake)",
+            "answers": [
+                {"text": "hadn't eaten", "correct": true},
+                {"text": "didn't eat", "correct": false},
+                {"text": "won't eat", "correct": false},
+                {"text": "wouldn't eat", "correct": false}
+            ]
+        },
+        {
+            "question": "Do you wish you _____ science instead of languages. (you didn't study science)",
+            "answers": [
+                {"text": "studied", "correct": false},
+                {"text": "will study", "correct": false},
+                {"text": "would study", "correct": false},
+                {"text": "had studied", "correct": true}
+            ]
+        },
+        {
+            "question": "It _____ cheaper if we _____ by bus.",
+            "answers": [
+                {"text": "is / will go", "correct": false},
+                {"text": "will be / go", "correct": true},
+                {"text": "is / go", "correct": false},
+                {"text": "will be / will go", "correct": false}
+            ]
+        },
+        {
+            "question": "If you _____ the exam you _____ a certificate.",
+            "answers": [
+                {"text": "pass / will get", "correct": true},
+                {"text": "will pass / will get", "correct": false},
+                {"text": "will pass / get", "correct": false},
+                {"text": "pass / get", "correct": false}
+            ]
+        },
+        {
+            "question": "Jane likes living in a city. She _____ happy if she lived in the country.",
+            "answers": [
+                {"text": "isn't", "correct": false},
+                {"text": "won't be", "correct": false},
+                {"text": "wouldn't be", "correct": true},
+                {"text": "wouldn't have been", "correct": false}
+            ]
+        },
+        {
+            "question": "What would you do if you _____ a lot of money?",
+            "answers": [
+                {"text": "win", "correct": false},
+                {"text": "won", "correct": true},
+                {"text": "would win", "correct": false},
+                {"text": "would have won", "correct": false}
+            ]
+        },
+        {
+            "question": "Online banking offers _____ to monitor _____.",
+            "answers": [
+                {"text": "PINs / identity theft", "correct": false},
+                {"text": "account alerts / bill pay", "correct": false},
+                {"text": "electronic statements / account activity", "correct": true},
+                {"text": "site key / lockout", "correct": false}
+            ]
+        },
+        {
+            "question": "Online banks have a(n) _____ and a(n) _____ to secure transactions.",
+            "answers": [
+                {"text": "SSL connection / site key", "correct": true},
+                {"text": "PIN, electronic statements", "correct": false},
+                {"text": "account alerts / bill pay", "correct": false},
+                {"text": "lockout / account activity", "correct": false}
+            ]
+        },
+        {
+            "question": "To protect members from fraud, online banks use _____ and _____.",
+            "answers": [
+                {"text": "site keys / account activity", "correct": false},
+                {"text": "lockouts / account alerts", "correct": true},
+                {"text": "PINs / electronic funds transfer", "correct": false},
+                {"text": "bill pay / identity theft", "correct": false}
+            ]
+        },
+        {
+            "question": "Online banks protect you from _____ and _____.",
+            "answers": [
+                {"text": "PINs / electronic funds transfer", "correct": false},
+                {"text": "SSL connection / site key", "correct": false},
+                {"text": "lockout / bill pay", "correct": false},
+                {"text": "bank fraud / identity theft", "correct": true}
+            ]
+        },
+        {
+            "question": "The company that produces Macs and other computing products.",
+            "answers": [
+                {"text": "Apple", "correct": true},
+                {"text": "Windows", "correct": false},
+                {"text": "OS X", "correct": false},
+                {"text": "Microsoft", "correct": false}
+            ]
+        },
+        {
+            "question": "The company that produces the Windows operating system among other products.",
+            "answers": [
+                {"text": "Apple", "correct": false},
+                {"text": "Windows", "correct": false},
+                {"text": "OS X", "correct": false},
+                {"text": "Microsoft", "correct": true}
+            ]
+        },
+        {
+            "question": "It is an operating system from Apple for Mac computers.",
+            "answers": [
+                {"text": "Apple", "correct": false},
+                {"text": "Windows", "correct": false},
+                {"text": "OS X", "correct": true},
+                {"text": "Microsoft", "correct": false}
+            ]
+        },
+        {
+            "question": "It's an operating system created by Microsoft that is used on many PCs.",
+            "answers": [
+                {"text": "Apple", "correct": false},
+                {"text": "Windows", "correct": true},
+                {"text": "OS X", "correct": false},
+                {"text": "Microsoft", "correct": false}
+            ]
+        },
+        {
+            "question": "You have to enter a _____ to make the system do anything.",
+            "answers": [
+                {"text": "Microsoft Office", "correct": false},
+                {"text": "TCP / IP protocol", "correct": false},
+                {"text": "command line", "correct": true},
+                {"text": "free software license", "correct": false}
+            ]
+        },
+        {
+            "question": "This program has a _____, so anyone can use it.",
+            "answers": [
+                {"text": "Microsoft Office", "correct": false},
+                {"text": "TCP / IP protocol", "correct": false},
+                {"text": "command line", "correct": false},
+                {"text": "free software license", "correct": true}
+            ]
+        },
+        {
+            "question": "_____ has an excellent word processing program.",
+            "answers": [
+                {"text": "Microsoft Office", "correct": true},
+                {"text": "TCP / IP protocol", "correct": false},
+                {"text": "command line", "correct": false},
+                {"text": "free software license", "correct": false}
+            ]
+        },
+        {
+            "question": "You need to reconfigure the computer's _____ to get online.",
+            "answers": [
+                {"text": "Microsoft Office", "correct": false},
+                {"text": "TCP / IP protocol", "correct": true},
+                {"text": "command line", "correct": false},
+                {"text": "free software license", "correct": false}
+            ]
+        },
+        {
+            "question": "There is no doubt that people of our information-dependent society _____ computer-literate.",
+            "answers": [
+                {"text": "may be", "correct": false},
+                {"text": "can be", "correct": false},
+                {"text": "should be", "correct": true},
+                {"text": "might be", "correct": false}
+            ]
+        },
+        {
+            "question": "Thanks to the Internet, people _____ communicate 24/7!",
+            "answers": [
+                {"text": "can", "correct": true},
+                {"text": "may", "correct": false},
+                {"text": "must", "correct": false},
+                {"text": "have to", "correct": false}
+            ]
+        },
+        {
+            "question": "Zhenya spoke to Lena yesterday. They _____ talk again today.",
+            "answers": [
+                {"text": "mustn't", "correct": false},
+                {"text": "cannot", "correct": false},
+                {"text": "may not", "correct": false},
+                {"text": "needn't", "correct": true}
+            ]
+        },
+        {
+            "question": "It's nearly 1pm! You _____ be late.",
+            "answers": [
+                {"text": "needn't", "correct": false},
+                {"text": "mustn't", "correct": true},
+                {"text": "cannot", "correct": false},
+                {"text": "may not", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ the coat on, she started to the door.",
+            "answers": [
+                {"text": "putting", "correct": true},
+                {"text": "put", "correct": false},
+                {"text": "when put", "correct": false},
+                {"text": "being put", "correct": false}
+            ]
+        },
+        {
+            "question": "The _____ coffee smelt delicious.",
+            "answers": [
+                {"text": "roasting", "correct": false},
+                {"text": "roasted", "correct": true},
+                {"text": "having roasted", "correct": false},
+                {"text": "having been roasted", "correct": false}
+            ]
+        },
+        {
+            "question": "I know the man entering the room.",
+            "answers": [
+                {"text": "войдя", "correct": false},
+                {"text": "входящего", "correct": true},
+                {"text": "вошедшего", "correct": false},
+                {"text": "входит", "correct": false}
+            ]
+        },
+        {
+            "question": "Having finished the essay he stood up to make up some coffee.",
+            "answers": [
+                {"text": "заканчивая", "correct": false},
+                {"text": "законченный", "correct": false},
+                {"text": "закончив", "correct": true},
+                {"text": "заканчивающий", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ is the use of a computer to design things such as machines or buildings.",
+            "answers": [
+                {"text": "CAD", "correct": true},
+                {"text": "CBT", "correct": false},
+                {"text": "FAQ", "correct": false},
+                {"text": "DVD", "correct": false}
+            ]
+        },
+        {
+            "question": "_____ is the use of a computer to train employees.",
+            "answers": [
+                {"text": "CAD", "correct": false},
+                {"text": "CBT", "correct": true},
+                {"text": "FAQ", "correct": false},
+                {"text": "DVD", "correct": false}
+            ]
+        },
+        {
+            "question": "It is a list of common questions with their answers.",
+            "answers": [
+                {"text": "CAD", "correct": false},
+                {"text": "CBT", "correct": false},
+                {"text": "FAQ", "correct": true},
+                {"text": "DVD", "correct": false}
+            ]
+        },
+        {
+            "question": "It is a storage disc that is read by a laser and can store media files such as videos and images.",
+            "answers": [
+                {"text": "CAD", "correct": false},
+                {"text": "CBT", "correct": false},
+                {"text": "FAQ", "correct": false},
+                {"text": "DVD", "correct": true}
+            ]
+        },
+        {
+            "question": "Computer science _____ computable processes and structures with the help of computers.",
+            "answers": [
+                {"text": "studies", "correct": true},
+                {"text": "study", "correct": false},
+                {"text": "studys", "correct": false},
+                {"text": "studied", "correct": false}
+            ]
+        },
+        {
+            "question": "Three foreign languages _____ in Switzerland.",
+            "answers": [
+                {"text": "speak", "correct": false},
+                {"text": "is spoken", "correct": false},
+                {"text": "are spoken", "correct": true},
+                {"text": "spoke", "correct": false}
+            ]
+        },
+        {
+            "question": "Many calculators _____ by engineers.",
+            "answers": [
+                {"text": "was invented", "correct": false},
+                {"text": "were invented", "correct": true},
+                {"text": "invented", "correct": false},
+                {"text": "are invented", "correct": false}
+            ]
+        },
+        {
+            "question": "Examinations _____ in June.",
+            "answers": [
+                {"text": "will be taken", "correct": true},
+                {"text": "will take", "correct": false},
+                {"text": "will have taken", "correct": false},
+                {"text": "take", "correct": false}
+            ]
+        },
+        {
+            "question": "It is the combination of multiple GIF files in one advertisement to create animation.",
+            "answers": [
+                {"text": "commission", "correct": false},
+                {"text": "click tracking", "correct": false},
+                {"text": "geo targeting", "correct": false},
+                {"text": "animated GIF", "correct": true}
+            ]
+        },
+        {
+            "question": "It is the amount of money charged by a website for hosting advertisements.",
+            "answers": [
+                {"text": "commission", "correct": true},
+                {"text": "click tracking", "correct": false},
+                {"text": "geo targeting", "correct": false},
+                {"text": "animated GIF", "correct": false}
+            ]
+        },
+        {
+            "question": "It is the process of counting and keeping track of the number of clicks an advertisement receives.",
+            "answers": [
+                {"text": "commission", "correct": false},
+                {"text": "click tracking", "correct": true},
+                {"text": "geo targeting", "correct": false},
+                {"text": "animated GIF", "correct": false}
+            ]
+        },
+        {
+            "question": "It is the process of showing advertisements in geographical areas where they are relevant.",
+            "answers": [
+                {"text": "commission", "correct": false},
+                {"text": "click tracking", "correct": false},
+                {"text": "geo targeting", "correct": true},
+                {"text": "animated GIF", "correct": false}
+            ]
+        },
+        {
+            "question": "The car is there now and _____ a lot of attention from Joe and the other mechanics at his shop.",
+            "answers": [
+                {"text": "is receiving", "correct": true},
+                {"text": "is received", "correct": false},
+                {"text": "receive", "correct": false},
+                {"text": "receives", "correct": false}
+            ]
+        },
+        {
+            "question": "The engine _____.",
+            "answers": [
+                {"text": "is tuned", "correct": false},
+                {"text": "is being tuned", "correct": true},
+                {"text": "tunes", "correct": false},
+                {"text": "tuned", "correct": false}
+            ]
+        },
+        {
+            "question": "I _____ coffee at the moment.",
+            "answers": [
+                {"text": "drink", "correct": false},
+                {"text": "am drink", "correct": false},
+                {"text": "am drinking", "correct": true},
+                {"text": "am being drunk", "correct": false}
+            ]
+        },
+        {
+            "question": "The battery _____.",
+            "answers": [
+                {"text": "charged", "correct": false},
+                {"text": "is charged", "correct": false},
+                {"text": "is being charging", "correct": false},
+                {"text": "is being charged", "correct": true}
+            ]
+        },
+        {
+            "question": "At last we _____ this difficult problem.",
+            "answers": [
+                {"text": "will have solved", "correct": false},
+                {"text": "had solved", "correct": false},
+                {"text": "have solved", "correct": true},
+                {"text": "have been solving", "correct": false}
+            ]
+        },
+        {
+            "question": "The detective reported that he _____ everywhere for thief without success.",
+            "answers": [
+                {"text": "has looked", "correct": false},
+                {"text": "had been looking", "correct": true},
+                {"text": "has been looking", "correct": false},
+                {"text": "had looked", "correct": false}
+            ]
+        },
+        {
+            "question": "We _____ this work by six o'clock tomorrow.",
+            "answers": [
+                {"text": "have done", "correct": false},
+                {"text": "will have done", "correct": true},
+                {"text": "will do", "correct": false},
+                {"text": "will have been doing", "correct": false}
+            ]
+        },
+        {
+            "question": "They were very tired because they _____ all day.",
+            "answers": [
+                {"text": "had travelled", "correct": false},
+                {"text": "have travelled", "correct": false},
+                {"text": "have been travelling", "correct": false},
+                {"text": "had been travelling", "correct": true}
+            ]
+        },
+        {
+            "question": "Надо было предупредить меня, что вы придете, я бы испекла пирог.",
+            "answers": [
+                {"text": "must have told", "correct": false},
+                {"text": "should have told", "correct": true},
+                {"text": "had to tell", "correct": false},
+                {"text": "can tell", "correct": false}
+            ]
+        },
+        {
+            "question": "Напрасно ты послал этот документ по факсу, им необходим оригинал.",
+            "answers": [
+                {"text": "needn't have sent", "correct": true},
+                {"text": "shouldn't have sent", "correct": false},
+                {"text": "mustn't have sent", "correct": false},
+                {"text": "cannot send", "correct": false}
+            ]
+        },
+        {
+            "question": "Зря ты пришел. Лекцию отменили.",
+            "answers": [
+                {"text": "didn't have to come", "correct": false},
+                {"text": "needn't have come", "correct": true},
+                {"text": "mustn't come", "correct": false},
+                {"text": "cannot come", "correct": false}
+            ]
+        },
+        {
+            "question": "Тебе не следовало так невежливо разговаривать с ней, она обиделась.",
+            "answers": [
+                {"text": "shouldn't have spoken", "correct": true},
+                {"text": "shouldn't speak", "correct": false},
+                {"text": "didn't have to speak", "correct": false},
+                {"text": "cannot speak", "correct": false}
+            ]
+        },
+        {
+            "question": "To switch from one file to another.",
+            "answers": [
+                {"text": "automation", "correct": false},
+                {"text": "telecommute", "correct": false},
+                {"text": "toggle", "correct": true},
+                {"text": "fault tolerant", "correct": false}
+            ]
+        },
+        {
+            "question": "To work away from an office using technology.",
+            "answers": [
+                {"text": "automation", "correct": false},
+                {"text": "telecommute", "correct": true},
+                {"text": "toggle", "correct": false},
+                {"text": "fault tolerant", "correct": false}
+            ]
+        },
+        {
+            "question": "The use of machines to perform tasks without human assistance.",
+            "answers": [
+                {"text": "automation", "correct": true},
+                {"text": "telecommute", "correct": false},
+                {"text": "toggle", "correct": false},
+                {"text": "fault tolerant", "correct": false}
+            ]
+        },
+        {
+            "question": "The ability to continue functioning after an error.",
+            "answers": [
+                {"text": "automation", "correct": false},
+                {"text": "telecommute", "correct": false},
+                {"text": "toggle", "correct": false},
+                {"text": "fault tolerant", "correct": true}
+            ]
+        },
+        {
+            "question": "Alice and Mike _____ to the seaside this summer.",
+            "answers": [
+                {"text": "went", "correct": false},
+                {"text": "go", "correct": false},
+                {"text": "have gone", "correct": true},
+                {"text": "had gone", "correct": false}
+            ]
+        },
+        {
+            "question": "The golf course was the most wonderful they _____ on.",
+            "answers": [
+                {"text": "had ever played", "correct": true},
+                {"text": "have ever played", "correct": false},
+                {"text": "had played ever", "correct": false},
+                {"text": "ever had played", "correct": false}
+            ]
+        },
+        {
+            "question": "I'm sure they _____ back only by the end of August.",
+            "answers": [
+                {"text": "come", "correct": false},
+                {"text": "will come", "correct": false},
+                {"text": "will have come", "correct": true},
+                {"text": "came", "correct": false}
+            ]
+        },
+        {
+            "question": "I think it is the best vacation they _____.",
+            "answers": [
+                {"text": "have taken ever", "correct": false},
+                {"text": "ever have taken", "correct": false},
+                {"text": "ever taken", "correct": false},
+                {"text": "have ever taken", "correct":true}
+            ]
+        }
+    ]
