@@ -177,7 +177,7 @@
             },
             {
                 "text": "воздушные и морские суда",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "строительные материалы",
@@ -185,7 +185,7 @@
             },
             {
                 "text": "деревья, выращиваемые в питомнике",
-                "correct": false
+                "correct": true
             }
         ]
     },
@@ -1839,11 +1839,11 @@
             },
             {
                 "text": "2 года",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "3 года",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "4 года",
@@ -2108,7 +2108,7 @@
         "answers": [
             {
                 "text": "компенсацию издержек подрядчика и причитающееся ему вознаграждение",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "фактические расходы подрядчика и причитающееся ему вознаграждение",
@@ -2116,7 +2116,7 @@
             },
             {
                 "text": "вознаграждение подрядчика",
-                "correct": false
+                "correct": true
             },
             {
                 "text": "только расходы подрядчика",
@@ -4257,11 +4257,11 @@
             },
             {
                 "text": "трудовым договором",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "нормативно-правовыми актами",
-                "correct": false
+                "correct": true
             }
         ]
     },
@@ -4444,7 +4444,7 @@
         "answers": [
             {
                 "text": "соглашением",
-                "correct": true
+                "correct": false
             },
             {
                 "text": "уставом",
@@ -4452,7 +4452,7 @@
             },
             {
                 "text": "трудовым договором",
-                "correct": false
+                "correct": true
             }
         ]
     },
